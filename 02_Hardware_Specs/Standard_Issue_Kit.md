@@ -25,7 +25,7 @@ To provide for the Unit, an operator must maintain high-quality, durable tools. 
 ### [ ] 03. THE RANGEFINDER (Digital Instant-Read Thermometer)
 *   **Mission Role:** Critical data acquisition. Eliminates guesswork.
 *   **Tactical Spec:** Minimum read time <3 seconds with ±0.7°F accuracy.
-*   **Note:** This is the difference between a "Successful Mission" and "Dry Rations."
+*   **Field Intel:** This is the difference between a "Successful Mission" and "Dry Rations."
 
 ### [ ] 04. THE FORCE MULTIPLIER (6-Quart Dutch Oven)
 *   **Mission Role:** Slow-cooking, bread baking, and large-batch stews.
