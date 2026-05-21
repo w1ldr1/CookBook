@@ -21,7 +21,7 @@
 ## 3. SUPPLIES (Consumables)
 *Quantities optimized for 6-8 Personnel:*
 - **The Armor (Caramel):** 1 cup Granulated Sugar.
-- **The Payload (Custard):** 1 can (14oz) Sweetened Condensed Milk, 1 can (12oz) Evaporated Milk, 3 Large Eggs, 1 tsp Vanilla Extract.
+- **The Payload (Custard):** 4 Cups of Whole Milk, 7 Large Eggs (2 yolks and 5 whole eggs), 1 tsp Vanilla Extract (optional).
 
 ## 4. EXECUTION (Step-by-Step)
 
@@ -31,13 +31,13 @@
 3.  **Deployment:** Immediately pour the molten sugar into the cake pan, tilting to coat the entire bottom. It will harden quickly.
 
 ### Phase 2: Loading the Payload (Custard)
-1.  **Integration:** In the mixing bowl, whisk eggs, condensed milk, evaporated milk, and vanilla until homogenous. Do not over-whisk; you want to avoid air bubbles.
+1.  **Integration:** In the mixing bowl, whisk eggs, and vanilla until homogenous. Do not over-whisk; you want to avoid air bubbles.
 2.  **Filling:** Pour the mixture over the hardened caramel.
 
 ### Phase 3: The Water Bath Maneuver (Bain-Marie)
 1.  **Staging:** Place the cake pan inside the larger roasting pan. 
 2.  **Hydration:** Fill the roasting pan with hot water until it reaches halfway up the side of the custard pan. This protects the protein from direct heat.
-3.  **Thermal Dwell:** Bake at **350°F (177°C)** for 50–60 minutes until the center is set but still has a "tactical jiggle."
+3.  **Thermal Dwell:** Bake at **375°F (190°C)** for 60–70 minutes until the center is set but still has a "tactical jiggle."
 
 ### Phase 4: Exfil & Extraction
 1.  **Cool Down:** Remove from water bath and let cool to room temperature.
