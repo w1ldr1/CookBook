@@ -1,0 +1,7 @@
+Mission ID: (e.g., SOP-001)
+Objective: (What is the end result?)
+Intel: (Prep time, difficulty, calorie/macro count)
+Hardware: (Pans, knives, tools needed)
+Supplies: (Ingredients list)
+Execution: (Step-by-step instructions in "Military Speak")
+After Action Report (AAR): (Tips for leftovers or variations)
