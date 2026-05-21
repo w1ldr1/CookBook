@@ -16,7 +16,7 @@
 - [ ] 1x Mixing Bowl and Whisk
 
 ## 3. SUPPLIES (Consumables)
-- **The Dry Payload:** 1 cup Yellow Cornmeal, 1 cup All-Purpose Flour, 1/4 cup Sugar (Optional), 1 tbsp Baking Powder, 1 tsp Salt.
+- **The Dry Payload:** 1 cup Yellow Cornmeal, 1 cup All-Purpose Flour, 1/4 cup Sugar (Secondary Objective), 1 tbsp Baking Powder, 1 tsp Salt.
 - **The Liquid Catalyst:** 1 cup Buttermilk, 1 Large Egg.
 - **Lubricant:** 1/2 stick (4 tbsp) Unsalted Butter.
 

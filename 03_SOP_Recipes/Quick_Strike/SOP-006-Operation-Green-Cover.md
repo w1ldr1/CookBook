@@ -15,14 +15,14 @@
 *Required tools for mission success:*
 - [ ] 1x Half-Sheet Pan (Industrial Grade Aluminum)
 - [ ] 1x Large Mixing Bowl
-- [ ] Parchment Paper (Optional: For zero-friction cleanup)
+- [ ] Parchment Paper (Secondary Objective: For zero-friction cleanup)
 
 ## 3. SUPPLIES (Consumables)
 *Quantities optimized for 2-4 Personnel:*
 - **The Target:** 1.5 lbs Fresh Broccoli florets or Brussels Sprouts (halved).
 - **Lubricant:** 2 tbsp Extra Virgin Olive Oil.
 - **Seasoning:** 1 tsp Kosher Salt, 1/2 tsp Black Pepper, 1 tsp Garlic Powder.
-- **Acidity/Finish:** 1/2 Fresh Lemon (for zest and juice), 2 tbsp Shredded Parmesan (Optional).
+- **Acidity/Finish:** 1/2 Fresh Lemon (for zest and juice), 2 tbsp Shredded Parmesan (Secondary Objective).
 
 ## 4. EXECUTION (Step-by-Step)
 

@@ -16,7 +16,7 @@
 *Required tools for mission success:*
 - [ ] 1x 12" Skillet or Wok
 - [ ] 1x Meat Masher or Wooden Spatula
-- [ ] 1x Measuring Cup (Optional)
+- [ ] 1x Measuring Cup (Secondary Objective)
 
 ## 3. SUPPLIES (Consumables)
 *Quantities optimized for 1 Personnel:*
@@ -24,7 +24,7 @@
 - **The Base:** 1 cup Pre-cooked Jasmine Rice (Microwavable pouch)
 - **The Payload (Veggies):** 1 cup Frozen Stir-fry vegetable mix
 - **The Catalyst (Sauce):** 2 tbsp Soy Sauce, 1 tsp Sriracha, 1 tsp Garlic Powder
-- **Top Cover:** 1 Egg (Optional)
+- **Top Cover:** 1 Egg (Secondary Objective)
 
 ## 4. EXECUTION (Step-by-Step)
 
@@ -37,7 +37,7 @@
 2.  **Neutralize the Protein:** Use the masher/spatula to break the meat into small, uniform crumbles. Cook until no pink remains (approx. 5–6 mins).
 3.  **Deploy Payload:** Throw in the frozen vegetables. The ice crystals will steam-cook the veggies rapidly in the hot pan.
 4.  **Integration:** Add the pre-cooked rice and the "Catalyst" (Soy sauce, Sriracha, Garlic powder) directly into the pan. Stir for 2 minutes until the rice is heated through.
-5.  **Optional Side-Mission:** Push the mixture to one side of the pan, crack the egg into the empty space, and fry for 2 minutes until the white is set.
+5.  **Secondary Objective Side-Mission:** Push the mixture to one side of the pan, crack the egg into the empty space, and fry for 2 minutes until the white is set.
 
 ### Phase 3: Extraction & Exfil
 1.  **Plating:** Transfer the mixture directly into a heavy-duty bowl. Top with the egg if applicable.

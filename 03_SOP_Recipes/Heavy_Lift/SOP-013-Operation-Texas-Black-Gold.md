@@ -14,7 +14,7 @@
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
 - [ ] 1x Offset Smoker or Pellet Grill
-- [ ] 1x Heavy Duty Pink Butcher Paper (Optional: Foil)
+- [ ] 1x Heavy Duty Pink Butcher Paper (Secondary Objective: Foil)
 - [ ] 1x Dual-Probe Remote Thermometer (The "Sentry")
 - [ ] 1x 12-inch Serrated Slicing Blade
 
