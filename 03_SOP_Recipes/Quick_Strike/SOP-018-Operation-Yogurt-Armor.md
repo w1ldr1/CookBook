@@ -43,8 +43,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** This is the most efficient cake in the manual. No scale or measuring cups makes it ideal for "Remote Ops."
-*   **Tactical Variation:** Fold in 1 measure of chocolate chips or blueberries for a morale boost.
+*   **Field Intel:** Use the empty yogurt cup as your standard unit of measure.
+*   **Secondary Objective:** Add lemon zest to the batter for "Citrus Reinforcement."
 
 ---
 ![A golden yogurt cake on a wire rack](../../04_Design_Assets/Images/SOP-018-Yogurt-Cake.jpg)

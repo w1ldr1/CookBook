@@ -38,6 +38,7 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 *   **Field Intel:** Crushing a few wafers on top before serving provides "Tactical Texture."
+*   **Secondary Objective:** Double the bananas for "Potassium Loading."
 
 ---
 ![Layered banana pudding with wafers on top](../../04_Design_Assets/Images/SOP-029-Banana-Pudding.jpg)

@@ -40,7 +40,7 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 *   **Field Intel:** The butter must be **cold**. If it’s warm, the sauce will "break" and turn greasy.
-*   **Usage:** Pour over SOP-001 (Steak) or SOP-030 (Pork) immediately.
+*   **Secondary Objective:** Add a splash of heavy cream for a "Velvet Finish."
 
 ---
 ![Sauce being poured from a skillet over a steak](../../04_Design_Assets/Images/SOP-033-Pan-Sauce.jpg)

@@ -39,8 +39,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** Pouring batter into a hot, buttered skillet creates the "Armor" (crispy crust) that separates professional ops from amateur work.
-*   **Variation:** Add diced jalapeños or corn kernels for "Advanced Recon" flavor.
+*   **Field Intel:** Pre-heating the skillet with butter is non-negotiable for the "Armor" crust.
+*   **Secondary Objective:** Fold in 1/2 cup of frozen corn kernels for "Internal Texture."
 
 ---
 ![Golden skillet cornbread with honey](../../04_Design_Assets/Images/SOP-020-Cornbread.jpg)

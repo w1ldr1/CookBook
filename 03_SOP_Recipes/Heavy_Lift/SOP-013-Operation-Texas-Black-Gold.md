@@ -50,10 +50,13 @@
 
 ---
 
+
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel 01:** A brisket is not done by time; it is done by "Feel." 
-*   **Field Intel 02:** Save the "Burnt Ends" from the Point for high-value morale boosts.
-*   **Logistics:** Leftovers are the "Gold Standard" for breakfast tacos (SOP-014).
+**Field Intel:**
+*   **The Stall:** Do not panic when the internal temp stops rising at 160°F. This is "Evaporative Cooling." Wrap the asset to push through to the finish.
+*   **Probe Feel:** The thermometer should feel like it is sliding into "Room Temperature Butter." If there is resistance, the mission is not complete.
+**Secondary Objective:**
+*   **Tallow Recovery:** Save the fat trimmings from Phase 1, melt them down in a separate pan, and pour the liquid "Gold" over the brisket during the wrap phase.
 
 ---
 **[Insert Action Photo: A jet-black brisket being sliced to reveal a deep red smoke ring]**

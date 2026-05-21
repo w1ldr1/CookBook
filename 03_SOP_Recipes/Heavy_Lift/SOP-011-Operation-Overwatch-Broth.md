@@ -46,8 +46,11 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** If the broth turns into "Jello" when cold, the mission was a 100% success (high collagen extraction). It will melt into liquid when heated.
-*   **Logistics:** Store in 2-cup portions in the freezer for use in SOP-009 (Rice) or as a recovery drink.
+**Field Intel:**
+*   **Lazy Bubble Discipline:** If the liquid is boiling, the heat is too high. A "gentle blip" is the only approved simmer rate for clear, high-quality broth.
+*   **Collagen Extraction:** The addition of Apple Cider Vinegar is critical for pulling minerals and collagen from the bone matrix.
+**Secondary Objective:**
+*   **The Deep Roast:** Roast the bones at 400°F for 20 minutes before adding to the water to achieve a "Dark Amber" high-intensity profile.
 
 ---
 **[Insert Action Photo: A golden, translucent liquid being poured through a strainer into a glass jar]**

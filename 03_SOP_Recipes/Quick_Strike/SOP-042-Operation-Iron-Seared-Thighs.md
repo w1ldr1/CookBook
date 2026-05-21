@@ -10,6 +10,7 @@
 *   **Thermal Dwell (Cook):** 25–30 Minutes
 *   **Target Macros (per 2 thighs):** P: 42g | C: 0g | F: 32g | ~460 Cal
 *   **Difficulty Rating:** 1/5
+*   **Compatible Systems:** SOP-032 (Mashed Potatoes), SOP-034 (Green Perimeter), SOP-043 (Root Fortification), SOP-033 (Pan Sauce).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 12" Cast Iron Skillet

@@ -39,8 +39,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** Add 1/2 cup Walnuts or Chocolate Chips during Phase 2 for a "Morale Force Multiplier."
-*   **Strategy:** Never throw away black bananas. If you can't bake today, peel them and store in a freezer bag for future ops.
+*   **Field Intel:** Black bananas have the highest sugar intel; use only overripe assets.
+*   **Secondary Objective:** Add 1/2 cup crushed walnuts for "Structural Integrity."
 
 ---
 ![Slices of banana bread with butter](../../04_Design_Assets/Images/SOP-027-Banana-Bread.jpg)

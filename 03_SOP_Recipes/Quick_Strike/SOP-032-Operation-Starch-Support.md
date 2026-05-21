@@ -41,8 +41,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** Starting with cold water ensures the outside of the potato doesn't turn to "mush" before the inside is cooked.
-*   **Pro-Tip:** For "Guerilla Style" (Rustic), leave the skins on.
+*   **Field Intel:** Start in cold water for uniform thermal penetration.
+*   **Secondary Objective:** For "Guerilla Style" (Rustic), leave the skins on.
 
 ---
 ![A bowl of creamy mashed potatoes with a pat of butter on top](../../04_Design_Assets/Images/SOP-032-Mashed-Potatoes.jpg)

@@ -37,8 +37,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** If the gravy is too thick, add a splash of milk to re-calibrate.
-*   **Deployment:** Pour over split biscuits from SOP-021.
+*   **Field Intel:** Do not drain the fat; it is the "Roux Lubricant."
+*   **Secondary Objective:** Add 1/2 tsp of crushed red pepper for "Morning Heat."
 
 ---
 ![Biscuits smothered in thick sausage gravy](../../04_Design_Assets/Images/SOP-022-Sausage-Gravy.jpg)

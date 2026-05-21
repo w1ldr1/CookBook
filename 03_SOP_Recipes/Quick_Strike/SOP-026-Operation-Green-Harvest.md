@@ -41,8 +41,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** This is the ultimate "Stealth Health" mission. The Unit won't taste the vegetables.
-*   **Logistics:** Slices can be frozen and toasted for "Emergency Morning Rations."
+*   **Field Intel:** Squeeze the zucchini to prevent "Hydration Failure" (soggy bread).
+*   **Secondary Objective:** Add 1/2 cup dark chocolate chips for "Morale Support."
 
 ---
 ![Loaf of zucchini bread on a cutting board](../../04_Design_Assets/Images/SOP-026-Zucchini-Bread.jpg)

@@ -1,0 +1,31 @@
+START OF RESUMPTION BRIEFING
+PROJECT: SUSTAINMENT OPERATIONS MANUAL (Vol. 1: Foundations)
+REPOSITORY: Z:\Terminal\Projects\CookBook
+STATUS: PHASE: HARDENING (Refactoring & Audit)
+1. PROJECT PHILOSOPHY:
+Niche: Best-selling men's cookbook/operational manual.
+Aesthetic: Military Field Guide (OD Green, Coyote Tan, Stencil fonts).
+Physical Hardware: 3-ring easel binder, waterproof/greaseproof synthetic paper.
+Nomenclature: Rank (Recruit/Sergeant/Commander), Infil (Prep), Engagement (Cook), Exfil (Plating/Storage), Field Intel (Tips), Secondary Objective (Options).
+2. REPOSITORY ARCHITECTURE:
+/00_Table_of_Distribution.md: Master Index (50 SOPs logged).
+/01_Intelligence: Nutrition, Safety, Battle Rhythm, Recon, Field Repair, Sanitation.
+/02_Hardware_Specs: Armory Kit, Blade Maintenance, Cast Iron Restoration.
+/03_SOP_Recipes:
+/Quick_Strike: (SOP-001, 002, 005, 006, 008, 010, 014, 015, 018, 020, 021, 022, 024-027, 029, 030, 032-040, 042, 043, 046, 047).
+/Heavy_Lift: (SOP-003, 007, 011, 013, 016, 017, 023, 028, 031, 041, 044, 045, 049, 050).
+/Field_Rations: (SOP-004, 009, 012, 019).
+/Morale_Boosters: (SOP-048 Beverages).
+/04_Design_Assets: Style Guide, Tab Specs.
+/05_Logistics_Supply: Production costs, Easel Binder specs.
+/06_Marketing_Comms: Kickstarter plan, Funnel logic, Launch checklist.
+3. HARDENING STANDARDS (The Audit):
+A Python audit script (audit_repo.py) has been created to ensure all 50 files contain:
+Rank assignment.
+Compatible Systems list.
+Hardened Terminology (No "Tips", "Notes", or "Optional").
+4. PENDING OBJECTIVES:
+Run audit_repo.py locally to identify which of the 50 files need manual terminology updates.
+Finalize "Photography Acquisition" list based on the 50 SOPs.
+Begin "Kickstarter Asset" creation (Video script and Page copy).
+END OF RESUMPTION BRIEFING

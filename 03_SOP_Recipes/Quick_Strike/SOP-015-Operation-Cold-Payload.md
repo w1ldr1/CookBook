@@ -43,8 +43,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel 01:** Using Greek Yogurt instead of traditional Mayo increases the protein yield and adds a "tangy" profile.
-*   **Field Intel 02:** Add halved grapes or diced apples if the "Unit" (family) prefers a sweet/savory profile.
+*   **Field Intel:** Use Greek Yogurt for a higher protein-to-fat ratio.
+*   **Secondary Objective:** Add diced Granny Smith apples for "Textural Intel."
 
 ---
 ![Chilled chicken salad in a stainless steel bowl](../../04_Design_Assets/Images/SOP-015-Chicken-Salad.jpg)

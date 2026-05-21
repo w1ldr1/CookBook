@@ -43,8 +43,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel 01:** Corn tortillas must be toasted; raw corn tortillas are "unstable" and will crumble.
-*   **Field Intel 02:** Use the leftover brisket from SOP-013 for a "Special Ops" version of this mission.
+*   **Field Intel:** Tortillas must be charred; raw corn is unstable.
+*   **Secondary Objective:** Garnish with pickled red onions for "Acid Balance."
 
 ---
 **[Insert Action Photo: A street taco held in a hand, lime juice dripping onto the plate]**

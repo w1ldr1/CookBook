@@ -39,8 +39,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** If the roux has black specks, it is "Killed in Action." Throw it out and start over.
-*   **Serving:** Garnish with green onions and serve over rice.
+*   **Field Intel:** A "Peanut Butter" color roux is the target; any darker is "Killed in Action."
+*   **Secondary Objective:** Use crawfish tail meat for "Bayou Authentic" ops.
 
 ---
 ![Shrimp etouffee over white rice](../../04_Design_Assets/Images/SOP-024-Etouffee.jpg)

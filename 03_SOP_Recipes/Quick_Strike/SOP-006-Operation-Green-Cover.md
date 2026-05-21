@@ -45,10 +45,11 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-
-*   **Field Intel 01:** If using frozen vegetables, do not thaw. Increase cook time by 5 minutes and ensure the oven is at full temp before deployment.
-*   **Field Intel 02:** "Char equals Flavor." Do not be afraid of the black edges; that is where the Maillard reaction creates the best results for vegetables.
-*   **Logistics:** These store well and can be integrated into "Field Rations" for mid-week lunches.
+**Field Intel:**
+*   **Thermal Char:** Do not be afraid of the black edges; that is where the Maillard reaction creates flavor in vegetables. 
+*   **Pan Integrity:** If using frozen vegetables, do not thaw. Deploy directly to a pre-heated pan to prevent mushy rations.
+**Secondary Objective:**
+*   **Tactical Heat:** Toss with 1 tsp Red Pepper Flakes and lemon zest during the final 2 minutes of roasting for increased metabolic activation.
 
 ---
 **[Insert Action Photo: A tray of vibrant green broccoli with charred brown edges and a lemon wedge]**

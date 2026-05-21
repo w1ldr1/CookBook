@@ -11,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 30–40 Minutes
 *   **Target Macros (per serving):** P: 32g | C: 58g | F: 14g | ~510 Cal
 *   **Difficulty Rating:** 4/5
+*   **Compatible Systems:** SOP-019 (Daily Bread), SOP-048 (Hostage Rescue Beverages), SOP-009 (Grain Silo - for auxiliary rice prep).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 15" Paella Pan or the widest Stainless Steel skillet available (Surface area is critical).

@@ -50,10 +50,11 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-
-*   **Field Intel 01:** Flattening the bird (Spatchcocking) reduces cook time by 30% and ensures the dark meat and white meat finish at the same time.
-*   **Field Intel 02:** For extra-crispy skin, apply the salt rub and let the bird sit uncovered in the fridge for 4–24 hours prior to cooking (Dry Brining).
-*   **Logistics:** Carcass should be frozen for future "Operation: Bone Broth."
+**Field Intel:**
+*   **Anatomical Strategy:** Spatchcocking (removing the spine) ensures the dark meat reaches safety temps (175°F) at the same time the breast reaches optimal juiciness (165°F).
+*   **Skin Desiccation:** For elite-level skin, salt the bird and leave uncovered in the fridge for 24 hours prior to engagement.
+**Secondary Objective:**
+*   **Resource Recovery:** Save the extracted backbone in a freezer bag for future use in SOP-011 (Overwatch Broth).
 
 ---
 **[Insert Action Photo: A flattened, golden-brown chicken on a wire rack with steam rising]**

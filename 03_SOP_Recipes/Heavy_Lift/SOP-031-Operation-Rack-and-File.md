@@ -44,7 +44,7 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 *   **Field Intel:** "Fall-off-the-bone" is a preference, but a perfect rib should have a clean "bite-through" without the rest of the meat sliding off.
-*   **Logistics:** Save the bones for "SOP-011: Overwatch Broth."
+*   **Secondary Objective:** Use apple cider vinegar spray during the first 3 hours to "Develop the Bark."
 
 ---
 ![A rack of ribs with a sticky, dark red glaze](../../04_Design_Assets/Images/SOP-031-Ribs.jpg)

@@ -48,9 +48,14 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Intel 01:** For "Stealth Wealth" nutrition, finely chop the spinach before adding; it integrates better and is easier for "Kid Units" to consume.
-*   **Field Intel 02:** Never cook eggs on High heat. High heat causes "Protein Tightening," resulting in a rubbery, sulfurous texture.
-*   **Pro-Tip:** Add a teaspoon of water or heavy cream to the whisking phase for a fluffier "Cloud-Like" consistency.
+**Field Intel:**
+*   **Thermal Discipline:** Never cook eggs on High heat. High heat causes "Protein Tightening," resulting in a rubbery, sulfurous texture. If the pan begins to smoke, you have lost thermal control—remove from heat immediately.
+*   **Textural Aeration:** Whisking eggs vigorously for 30 seconds prior to deployment incorporates air, resulting in a significantly higher-volume scramble. Adding 1 tsp of water or heavy cream increases the "steam-loft" during the cook.
+*   **Residual Heat Maneuver:** Kill the heat when the eggs look 80% finished (slightly wet). The residual thermal energy of the pan will complete the cook during the "Exfil" phase, preventing dry, overcooked rations.
+
+**Secondary Objective:**
+*   **The Southwest Maneuver:** After the fold, top with 2 tbsp of salsa and 1/4 sliced avocado. This increases the fat and micronutrient payload, transforming a basic morning refuel into a high-octane "Hostage Rescue" level breakfast.
 
 ---
+
 **[Insert Action Photo: A close-up of a silicone spatula folding fluffy yellow eggs over bright green spinach]**

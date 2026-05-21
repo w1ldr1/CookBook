@@ -36,8 +36,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** Using "SOP-019 No-Knead Bread" creates a superior texture compared to store-bought white bread.
-*   **Serving:** Top with a drizzle of maple syrup or melted butter for a "Finish Maneuver."
+*   **Field Intel:** Stale bread is a requirement; fresh bread will turn to mush.
+*   **Secondary Objective:** Top with a bourbon-butter glaze for "Hostage Rescue" level dessert.
 
 ---
 ![Warm bread pudding in a white ceramic dish](../../04_Design_Assets/Images/SOP-028-Bread-Pudding.jpg)

@@ -39,8 +39,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** Serve over SOP-009 (Rice).
-*   **Logistics:** Like chili, this is better the next day.
+*   **Field Intel:** Mashing 10% of the beans is the secret to the "Creamy Base."
+*   **Secondary Objective:** Use smoked turkey wings as a "Low-Fat" alternative to ham hocks.
 
 ---
 ![A bowl of creamy red beans and rice with sausage](../../04_Design_Assets/Images/SOP-023-Red-Beans.jpg)

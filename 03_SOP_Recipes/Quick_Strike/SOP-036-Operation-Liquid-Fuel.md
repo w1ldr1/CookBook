@@ -37,8 +37,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Secondary Objective (Tactical Coffee):** Add 1 tbsp Grass-fed Butter or MCT oil to coffee and blend for 30 seconds for sustained "Ketogenic Fuel."
-*   **Field Intel:** Always clean the blender immediately after consumption. Dried protein powder is a "Biological Hazard" and becomes significantly harder to neutralize later.
+*   **Field Intel:** Rinse the blender immediately. Dried protein is a "Biological Hazard." 
+*   **Secondary Objective:** (Tactical Coffee): Add 1 tbsp of MCT Oil to coffee for "Cognitive Engagement."
 
 ---
 ![A stainless steel French press next to a morning smoothie](../../04_Design_Assets/Images/SOP-036-Liquid-Fuel.jpg)

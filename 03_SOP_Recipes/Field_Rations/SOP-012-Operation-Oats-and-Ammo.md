@@ -43,9 +43,11 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-
-*   **Field Intel 01:** The chia seeds act as a thickening agent. Without them, the rations will be watery.
-*   **Field Intel 02:** These remain viable in the "Field" (fridge) for up to 4 days. Batch-cook 4 jars on Sunday for a work-week solution.
+**Field Intel:**
+*   **Chia Hydrodynamics:** Chia seeds are the primary thickening agent. Without them, the rations will remain liquid and fail the "Oat-to-Liquid" ratio.
+*   **Engagement Window:** These remain viable for 96 hours. Batch-prep 4 jars on Sunday for work-week sustainment.
+**Secondary Objective:**
+*   **Macro Boost:** Top with 1 tbsp of chopped walnuts or almonds immediately before consumption for added healthy fats and "Tactical Crunch."
 
 ---
 **[Insert Action Photo: A row of three mason jars with distinct layers of oats, berries, and peanut butter]**

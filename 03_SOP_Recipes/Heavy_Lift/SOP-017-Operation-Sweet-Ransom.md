@@ -49,8 +49,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel 01:** If the sugar burns (turns dark black), neutralize and start over. Burnt sugar is bitter and ruins the mission.
-*   **Field Intel 02:** Use a fine-mesh strainer when pouring the custard into the pan to ensure a "surgical" silkiness.
+*   **Field Intel:** If the sugar burns (turns dark black), neutralize and start over. Burnt sugar is bitter and ruins the mission.
+*   **Secondary Objective:** Use a fine-mesh strainer when pouring the custard into the pan to ensure a "surgical" silkiness.
 
 ---
 ![A slice of silky flan with golden caramel sauce](../../04_Design_Assets/Images/SOP-017-Flan.jpg)

@@ -46,9 +46,11 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-
-*   **Field Intel 01:** If the skin sticks, it’s not ready to flip. Thermal energy will naturally "release" the skin once the crust is formed.
-*   **Field Intel 02:** Cold salmon leftovers are elite for "SOP-018: Recon Grain Bowls" the next day.
+**Field Intel:**
+*   **Adhesion Control:** If the skin sticks, it is not ready. Thermal energy will naturally "release" the skin once the armor (crust) is fully formed.
+*   **Moisture Extraction:** Use the "Primary Blade" to scrape the skin side before cooking to remove microscopic moisture; this ensures a high-decibel crunch.
+**Secondary Objective:**
+*   **Butter Basting:** Add 1 tbsp of butter and a sprig of thyme during the final 2 minutes of the flesh-side sear to increase the fat-soluble flavor profile.
 
 ---
 **[Insert Action Photo: A spatula lifting a salmon fillet showing a perfectly crisped, golden skin]**

@@ -53,9 +53,13 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Intel 01:** The "Reverse Sear" method ensures the meat is edge-to-edge pink, with no grey "overcooked" ring. This is what impresses the guests.
-*   **Field Intel 02:** If the guests prefer "Medium," pull the roast at 140°F during the sear.
-*   **Leftover Utility:** Cold sliced Tri-Tip is elite for "SOP-015: Tactical Sandwiches."
+**Field Intel:**
+*   **Thermal Physics:** The "Reverse Sear" ensures the meat is edge-to-edge pink. By cooking low and slow first, you prevent the "Grey Ring" of overcooked protein typical of high-heat-only methods.
+*   **Pull Point:** Carry-over cooking will raise the internal temperature by approximately 5°F during the rest. Always pull the target at 125°F for a 130°F final result.
+*   **Grain Navigation:** Tri-Tip grain changes direction halfway through the roast. Identify the "seam" where the fibers rotate and adjust your slicing angle 90 degrees to ensure every slice is against the grain.
+
+**Secondary Objective:**
+*   **The Board Sauce Maneuver:** While the meat rests, finely chop 1 tbsp parsley and 1 clove garlic directly on your cutting board. Mix with 1 tbsp Olive Oil. Slice the rested meat directly onto this mixture. The escaping juices will emulsify with the herbs to create an instant, high-velocity "Board Sauce."
 
 ---
 **[Insert Action Photo: Sliced Tri-Tip on a rugged wooden board]**

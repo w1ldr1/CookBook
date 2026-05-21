@@ -40,8 +40,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** Never rinse your pasta. Rinsing removes the "Adhesion Coating" (starch) that holds the sauce.
-*   **Secondary Objective:** Top with a "Rain of Parmesan" for maximum morale.
+*   **Field Intel:** Reserve the pasta water; it is the "Starch Glue" for the sauce.
+*   **Secondary Objective:** Add 1 tsp of sugar to neutralize high-acid tomatoes.
 
 ---
 ![A skillet of pasta with thick red sauce and fresh basil](../../04_Design_Assets/Images/SOP-035-Pasta.jpg)

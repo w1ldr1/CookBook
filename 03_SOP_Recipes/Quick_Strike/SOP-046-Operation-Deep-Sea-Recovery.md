@@ -10,6 +10,7 @@
 *   **Thermal Dwell (Cook):** 10 Minutes
 *   **Target Macros (per serving):** P: 28g | C: 52g | F: 12g
 *   **Difficulty Rating:** 2/5 (Timing is critical)
+*   **Compatible Systems:** SOP-019 (Daily Bread - for sauce extraction), SOP-034 (Green Perimeter), SOP-048 (Hostage Rescue Beverages).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Large Pasta Pot

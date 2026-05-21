@@ -49,10 +49,11 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-
-*   **Field Intel 01:** The parchment paper prevents the meat from sticking to your "Smash Tool."
-*   **Field Intel 02:** 80/20 beef is required. Leaner meat (90/10) will result in dry rations and won't produce the necessary "lacey" edges.
-*   **Visual Intel:** The patties should look "destroyed" and uneven; this creates the maximum flavor surface.
+**Field Intel:**
+*   **Fat-to-Lean Ratio:** 80/20 beef is the standard. Anything leaner lacks the lubricant required for a successful "lacy" edge sear.
+*   **The Cold Chain:** Keep the meat balls in refrigeration until the exact moment of deployment to ensure maximum fat retention during the smash.
+**Secondary Objective:**
+*   **The Oklahoma Maneuver:** Place thinly sliced onions directly on top of the raw meat ball before smashing. The onions will steam and char into the patty during the sear.
 
 ---
 **[Insert Action Photo: A heavy metal press crushing a beef ball into a smoking cast iron skillet]**

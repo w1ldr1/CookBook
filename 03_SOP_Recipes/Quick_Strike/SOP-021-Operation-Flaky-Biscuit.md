@@ -39,7 +39,7 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 *   **Field Intel:** Keeping the butter frozen is the critical success factor. 
-*   **Usage:** Primary vehicle for SOP-022 (Sausage & Gravy).
+*   **Secondary Objective:** Brush the tops with honey-butter immediately upon extraction.
 
 ---
 ![Tall, rugged buttermilk biscuits](../../04_Design_Assets/Images/SOP-021-Biscuits.jpg)

@@ -36,8 +36,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** If the shrimp form an "O" shape, they are overcooked.
-*   **Usage:** Peel and eat, or use in SOP-015 (Cold Payload).
+*   **Field Intel:** The "C-Shape" means done; the "O-Shape" means overcooked.
+*   **Secondary Objective:** Add halved potatoes and corn to the boil for a "Full Squad" feast.
 
 ---
 ![Bright pink boiled shrimp with lemon](../../04_Design_Assets/Images/SOP-025-Boiled-Shrimp.jpg)

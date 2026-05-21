@@ -48,8 +48,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** For "Operation: Garlic Bread," add 1 tbsp garlic powder and dried rosemary during Phase 1.
-*   **Logistics:** This bread has no preservatives. If not consumed within 48 hours, slice and freeze.
+*   **Field Intel:** The 18-hour ferment develops the gluten without manual labor.
+*   **Secondary Objective:** Add 1 tbsp of dried rosemary to the dry mix for "Aromatic Ops."
 
 ---
 ![A round, crusty loaf of bread sitting next to a Dutch oven](../../04_Design_Assets/Images/SOP-019-Bread.jpg)

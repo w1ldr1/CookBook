@@ -44,8 +44,11 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel 01:** Use this as the base for SOP-002 (Ground Combat Bowl). 
-*   **Field Intel 02:** For "Fragrant Ops," add 2 smashed garlic cloves or a piece of ginger to the pot during the boil phase.
+**Field Intel:**
+*   **Starch Neutralization:** Rinsing the rice until the water runs clear is mandatory to prevent "Sticky Rations."
+*   **Vapor Lock:** Do not lift the lid during the dwell. Breaking the vapor seal results in uneven hydration and mission failure.
+**Secondary Objective:**
+*   **Aromatic Infusion:** Add 1 smashed garlic clove and 1 bay leaf to the water during the boil phase for enhanced fragrance.
 
 ---
 **[Insert Action Photo: A fork lifting light, fluffy grains of rice from a steaming pot]**

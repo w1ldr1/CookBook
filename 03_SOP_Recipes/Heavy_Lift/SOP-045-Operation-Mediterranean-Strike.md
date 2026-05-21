@@ -11,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 1.5–2 Hours
 *   **Target Macros (per 6oz):** P: 42g | C: 0g | F: 28g | ~430 Cal
 *   **Difficulty Rating:** 3/5
+*   **Compatible Systems:** SOP-043 (Root Fortification), SOP-032 (Mashed Potatoes), SOP-019 (Daily Bread), SOP-033 (Pan Sauce - using lamb drippings).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Large Roasting Pan with Rack

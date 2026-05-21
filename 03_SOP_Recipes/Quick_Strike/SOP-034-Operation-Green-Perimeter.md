@@ -36,7 +36,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** Do not cover the pan. Covering it traps steam and turns the vegetables a dull, unappealing grey.
+*   **Field Intel:** High heat and a short dwell keep the "Green Integrity" (crunch).
+*   **Secondary Objective:** Top with toasted slivered almonds for "Visual Intel."
 
 ---
 ![Blistered green beans in a stainless steel pan](../../04_Design_Assets/Images/SOP-034-Green-Beans.jpg)

@@ -40,7 +40,9 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** Pork tenderloin is extremely lean; every minute past 145°F increases the risk of "Dry Rations."
+*   **Field Intel:** Pull at 140°F. Lean pork dries out instantly past 150°F.
+**Secondary Objective:**
+*   **The Bourbon-Mustard Glaze:** During the final 3 minutes of the oven "Thermal Dwell," brush the target with a 50/50 mixture of Dijon mustard and Maple syrup (or Honey). Upon extraction, while the meat rests, deglaze the hot skillet with 1oz of Bourbon and 1 tbsp of butter. Stir aggressively to incorporate the "Fond" and pour this high-intensity reduction over the sliced pork.
 
 ---
 ![Sliced pork tenderloin on a cast iron skillet](../../04_Design_Assets/Images/SOP-030-Pork-Tenderloin.jpg)

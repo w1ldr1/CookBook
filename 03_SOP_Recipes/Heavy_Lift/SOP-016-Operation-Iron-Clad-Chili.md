@@ -47,8 +47,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** This recipe is "Texas Style" (No Beans). If your Unit demands beans, add 1 can of Kidney beans in the final 30 minutes.
-*   **Logistics:** Chili is better on Day 2. Perfect for batch-rationing and freezing.
+*   **Field Intel:** Chili is a "Day 2" asset; flavors deepen after a 24-hour cold soak.
+*   **Secondary Objective:** Serve over a "Tuber Load" (SOP-040) for a high-calorie winter refuel.
 
 ---
 ![Deep red beef chili in a black Dutch oven](../../04_Design_Assets/Images/SOP-016-Iron-Chili.jpg)
