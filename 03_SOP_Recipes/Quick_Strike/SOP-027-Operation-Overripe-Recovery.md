@@ -1,5 +1,6 @@
 # SOP-027: OPERATION OVERRIPE RECOVERY
 **Objective:** Salvaging expired Banana assets into high-value Banana Bread.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Resource Recovery)
 
 ---
@@ -9,6 +10,7 @@
 *   **Infil (Prep):** 10 Minutes
 *   **Thermal Dwell (Cook):** 55–60 Minutes
 *   **Difficulty Rating:** 1/5 (Simple)
+*   **Compatible Systems:** SOP-036 (Coffee).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 9x5" Loaf Pan
@@ -37,7 +39,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Add 1/2 cup Walnuts or Chocolate Chips during Phase 2 for a "Morale Force Multiplier."
+*   **Field Intel:** Add 1/2 cup Walnuts or Chocolate Chips during Phase 2 for a "Morale Force Multiplier."
 *   **Strategy:** Never throw away black bananas. If you can't bake today, peel them and store in a freezer bag for future ops.
 
 ---

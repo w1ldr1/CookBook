@@ -1,5 +1,6 @@
 # SOP-024: OPERATION MUD-BUG
 **Objective:** Rapid engagement of Shrimp Étouffée.
+**Rank:** Commander
 **Mission Type:** Quick Strike (High-Flavor Seizure)
 
 ---
@@ -9,6 +10,7 @@
 *   **Thermal Dwell (Cook):** 25 Minutes
 *   **Target Macros (per serving):** P: 35g | C: 15g | F: 18g
 *   **Difficulty Rating:** 3/5 (Roux management)
+*   **Compatible Systems:** SOP-009 (Rice).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Large Heavy Skillet
@@ -37,7 +39,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** If the roux has black specks, it is "Killed in Action." Throw it out and start over.
+*   **Field Intel:** If the roux has black specks, it is "Killed in Action." Throw it out and start over.
 *   **Serving:** Garnish with green onions and serve over rice.
 
 ---

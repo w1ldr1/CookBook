@@ -1,6 +1,8 @@
 # SOP-007: OPERATION HIGH-VALUE BIRD
 **Objective:** Execution of a whole-bird roast using the "Spatchcock" maneuver for maximum surface area and uniform thermal distribution.
+**Rank:** Sergeant
 **Mission Type:** Heavy Lift (Foundational Skill)
+
 
 ---
 
@@ -10,6 +12,7 @@
 *   **Thermal Dwell (Cook):** 45–55 Minutes
 *   **Target Macros (per 6oz):** P: 40g | C: 0g | F: 12g | ~280 Cal
 *   **Difficulty Rating:** 3/5 (Requires manual dexterity/scissors)
+*   **Compatible Systems:** SOP-011 (Overwatch Broth), SOP-043 (Root Fortification), SOP-015 (Cold Payload). 
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -48,8 +51,8 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Note 01:** Flattening the bird (Spatchcocking) reduces cook time by 30% and ensures the dark meat and white meat finish at the same time.
-*   **Field Note 02:** For extra-crispy skin, apply the salt rub and let the bird sit uncovered in the fridge for 4–24 hours prior to cooking (Dry Brining).
+*   **Field Intel 01:** Flattening the bird (Spatchcocking) reduces cook time by 30% and ensures the dark meat and white meat finish at the same time.
+*   **Field Intel 02:** For extra-crispy skin, apply the salt rub and let the bird sit uncovered in the fridge for 4–24 hours prior to cooking (Dry Brining).
 *   **Logistics:** Carcass should be frozen for future "Operation: Bone Broth."
 
 ---

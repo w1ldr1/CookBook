@@ -1,6 +1,8 @@
 # SOP-016: OPERATION IRON-CLAD CHILI
 **Objective:** Production of high-calorie, long-stability "Texas Red" beef chili.
+**Rank:** Sergeant
 **Mission Type:** Heavy Lift (Dutch Oven Mission)
+
 
 ---
 
@@ -10,6 +12,7 @@
 *   **Thermal Dwell (Cook):** 2.5 Hours
 *   **Target Macros (per 1.5 cups):** P: 44g | C: 12g | F: 28g | ~480 Cal
 *   **Difficulty Rating:** 2/5 (Endurance)
+*   **Compatible Systems:** SOP-020 (Cornbread), SOP-040 (Baked Potato).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -44,7 +47,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** This recipe is "Texas Style" (No Beans). If your Unit demands beans, add 1 can of Kidney beans in the final 30 minutes.
+*   **Field Intel:** This recipe is "Texas Style" (No Beans). If your Unit demands beans, add 1 can of Kidney beans in the final 30 minutes.
 *   **Logistics:** Chili is better on Day 2. Perfect for batch-rationing and freezing.
 
 ---

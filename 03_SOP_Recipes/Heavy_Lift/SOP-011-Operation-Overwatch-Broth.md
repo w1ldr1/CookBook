@@ -1,5 +1,6 @@
 # SOP-011: OPERATION OVERWATCH BROTH
 **Objective:** Total value extraction from leftover skeletal remains and vegetable scraps.
+**Rank:** Recruit
 **Mission Type:** Heavy Lift (Long-Duration Resource Recovery)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 6–12 Hours
 *   **Target Macros:** Trace minerals, Collagen, High Protein hydration.
 *   **Difficulty Rating:** 1/5 (Endurance mission)
+*   **Compatible Systems:** SOP-009 (Grain Silo), SOP-016 (Iron-Clad Chili), SOP-023 (Delta Slow).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -44,7 +46,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** If the broth turns into "Jello" when cold, the mission was a 100% success (high collagen extraction). It will melt into liquid when heated.
+*   **Field Intel:** If the broth turns into "Jello" when cold, the mission was a 100% success (high collagen extraction). It will melt into liquid when heated.
 *   **Logistics:** Store in 2-cup portions in the freezer for use in SOP-009 (Rice) or as a recovery drink.
 
 ---

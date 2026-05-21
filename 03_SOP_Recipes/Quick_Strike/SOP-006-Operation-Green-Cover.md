@@ -1,5 +1,6 @@
 # SOP-006: OPERATION GREEN COVER
 **Objective:** Rapid deployment of fiber and micronutrients to support primary protein targets.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Vegetable Side-Op)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 15 Minutes
 *   **Target Macros:** P: 4g | C: 10g | F: 7g | ~120 Cal
 *   **Difficulty Rating:** 1/5 (Basic Maneuvers)
+*   **Compatible Systems:**  SOP-001 (Steak).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -44,8 +46,8 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Note 01:** If using frozen vegetables, do not thaw. Increase cook time by 5 minutes and ensure the oven is at full temp before deployment.
-*   **Field Note 02:** "Char equals Flavor." Do not be afraid of the black edges; that is where the Maillard reaction creates the best results for vegetables.
+*   **Field Intel 01:** If using frozen vegetables, do not thaw. Increase cook time by 5 minutes and ensure the oven is at full temp before deployment.
+*   **Field Intel 02:** "Char equals Flavor." Do not be afraid of the black edges; that is where the Maillard reaction creates the best results for vegetables.
 *   **Logistics:** These store well and can be integrated into "Field Rations" for mid-week lunches.
 
 ---

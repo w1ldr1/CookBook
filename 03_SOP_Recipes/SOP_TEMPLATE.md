@@ -42,7 +42,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*Field notes for next deployment:*
+*Field Intel for next deployment:*
 - *Modifications:* [e.g., "Add more garlic next time."]
 - *Substitutions:* [e.g., "Can substitute flank steak if ribeye is unavailable."]
 - *Storage:* [e.g., "Leftovers maintain integrity for 48 hours in airtight container."]

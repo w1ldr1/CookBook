@@ -1,16 +1,14 @@
-
 # SOP-002: OPERATION GROUND COMBAT
 **Objective:** Rapid deployment of a high-protein, nutrient-dense fuel bowl.
-**Mission Type:** Quick Strike (15-Minute Refuel)
+**Rank:** Recruit 
+**Mission Type:** Quick Strike
 
 ---
 
 ## 1. INTELLIGENCE (The Stats)
 *   **Total Mission Time:** 15 Minutes
-*   **Infil (Prep):** 5 Minutes
-*   **Thermal Dwell (Cook):** 10 Minutes
 *   **Target Macros:** P: 55g | C: 45g | F: 22g | ~600 Cal
-*   **Difficulty Rating:** 1/5 (Basic Maneuvers)
+*   **Compatible Systems:** SOP-009 (Grain Silo / Rice), SOP-018 (Temporal Eggs).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -46,10 +44,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-
-*   **Field Note 01:** For a "Low Carb" mission, swap the rice for frozen Cauliflower Rice.
-*   **Field Note 02:** Keep "Microwave Rice Pouches" in the pantry at all times. They are the ultimate "Quick Strike" asset.
-*   **Field Note 03:** Double the recipe to create "Field Rations" (meal prep) for tomorrow's lunch.
+*   **Field Intel:** Keep "Microwave Rice Pouches" in the pantry at all times for maximum velocity.
+*   **Secondary Objective:** Add 1 tsp of Red Pepper Flakes during the sear for "High-Heat" engagement.
 
 ---
 **[Insert Action Photo: A top-down shot of the steaming bowl with a bright red Sriracha drizzle]**

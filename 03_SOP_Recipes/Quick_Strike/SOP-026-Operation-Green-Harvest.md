@@ -1,5 +1,6 @@
 # SOP-026: OPERATION GREEN HARVEST
 **Objective:** Tactical extraction of nutrients from Zucchini into a high-density quick bread.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Baking Ops)
 
 ---
@@ -9,6 +10,7 @@
 *   **Infil (Prep):** 15 Minutes
 *   **Thermal Dwell (Cook):** 55–60 Minutes
 *   **Difficulty Rating:** 1/5 (Basic)
+*   **Compatible Systems:** SOP-036 (Coffee).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 9x5" Loaf Pan
@@ -39,7 +41,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** This is the ultimate "Stealth Health" mission. The Unit won't taste the vegetables.
+*   **Field Intel:** This is the ultimate "Stealth Health" mission. The Unit won't taste the vegetables.
 *   **Logistics:** Slices can be frozen and toasted for "Emergency Morning Rations."
 
 ---

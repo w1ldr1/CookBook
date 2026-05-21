@@ -1,5 +1,6 @@
 # SOP-017: OPERATION SWEET RANSOM
 **Objective:** Precision execution of a classic caramel custard (Flan) for high-value morale boosts.
+**Rank:** Commander
 **Mission Type:** Heavy Lift (Technical Dessert)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 50–60 Minutes
 *   **Target Macros (per slice):** P: 6g | C: 28g | F: 8g | ~210 Cal
 *   **Difficulty Rating:** 4/5 (Requires sugar-heat management)
+*   **Compatible Systems:** SOP-045 (Roasted Lamb), SOP-044 (Paella).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -47,8 +49,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** If the sugar burns (turns dark black), neutralize and start over. Burnt sugar is bitter and ruins the mission.
-*   **Field Note 02:** Use a fine-mesh strainer when pouring the custard into the pan to ensure a "surgical" silkiness.
+*   **Field Intel 01:** If the sugar burns (turns dark black), neutralize and start over. Burnt sugar is bitter and ruins the mission.
+*   **Field Intel 02:** Use a fine-mesh strainer when pouring the custard into the pan to ensure a "surgical" silkiness.
 
 ---
 ![A slice of silky flan with golden caramel sauce](../../04_Design_Assets/Images/SOP-017-Flan.jpg)

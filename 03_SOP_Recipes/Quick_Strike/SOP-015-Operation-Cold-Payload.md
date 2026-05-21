@@ -1,5 +1,6 @@
 # SOP-015: OPERATION COLD PAYLOAD
 **Objective:** High-speed conversion of leftover "High-Value Bird" into nutrient-dense chilled rations.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Zero-Heat Mission)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 0 Minutes
 *   **Target Macros (per 1 cup):** P: 32g | C: 6g | F: 14g | ~280 Cal
 *   **Difficulty Rating:** 1/5 (Assembly only)
+*   **Compatible Systems:** SOP-019 (Bread).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -41,8 +43,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Using Greek Yogurt instead of traditional Mayo increases the protein yield and adds a "tangy" profile.
-*   **Field Note 02:** Add halved grapes or diced apples if the "Unit" (family) prefers a sweet/savory profile.
+*   **Field Intel 01:** Using Greek Yogurt instead of traditional Mayo increases the protein yield and adds a "tangy" profile.
+*   **Field Intel 02:** Add halved grapes or diced apples if the "Unit" (family) prefers a sweet/savory profile.
 
 ---
 ![Chilled chicken salad in a stainless steel bowl](../../04_Design_Assets/Images/SOP-015-Chicken-Salad.jpg)

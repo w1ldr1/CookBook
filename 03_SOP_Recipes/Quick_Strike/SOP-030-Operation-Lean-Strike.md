@@ -1,6 +1,8 @@
 # SOP-030: OPERATION LEAN STRIKE
 **Objective:** Precision sear and thermal finish of a Pork Tenderloin.
+**Rank:** Sergeant
 **Mission Type:** Quick Strike (Lean Protein)
+
 
 ---
 
@@ -9,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 15–20 Minutes
 *   **Target Macros (per 6oz):** P: 36g | C: 0g | F: 6g | ~210 Cal
 *   **Difficulty Rating:** 2/5 (Requires temp precision)
+*   **Compatible Systems:** SOP-043 (Roasted Roots).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 12" Cast Iron Skillet
@@ -37,7 +40,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Pork tenderloin is extremely lean; every minute past 145°F increases the risk of "Dry Rations."
+*   **Field Intel:** Pork tenderloin is extremely lean; every minute past 145°F increases the risk of "Dry Rations."
 
 ---
 ![Sliced pork tenderloin on a cast iron skillet](../../04_Design_Assets/Images/SOP-030-Pork-Tenderloin.jpg)

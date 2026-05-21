@@ -1,6 +1,8 @@
 # SOP-028: OPERATION SALVAGE RATIONS
 **Objective:** Conversion of stale bread assets into a high-density Bread Pudding.
+**Rank:** Recruit
 **Mission Type:** Heavy Lift (Custard Mission)
+
 
 ---
 
@@ -9,6 +11,7 @@
 *   **Infil (Prep):** 15 Minutes
 *   **Thermal Dwell (Cook):** 45 Minutes
 *   **Difficulty Rating:** 2/5 (Requires soak time)
+*   **Compatible Systems:** SOP-019 (Daily Bread), SOP-036 (Coffee).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 9x13" Baking Dish
@@ -33,7 +36,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Using "SOP-019 No-Knead Bread" creates a superior texture compared to store-bought white bread.
+*   **Field Intel:** Using "SOP-019 No-Knead Bread" creates a superior texture compared to store-bought white bread.
 *   **Serving:** Top with a drizzle of maple syrup or melted butter for a "Finish Maneuver."
 
 ---

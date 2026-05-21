@@ -1,5 +1,6 @@
 # SOP-032: OPERATION STARCH SUPPORT
 **Objective:** Deployment of smooth, high-calorie Mashed Potatoes (The Primary Side-Op).
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Side-Op)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 15–20 Minutes
 *   **Target Macros (per 1 cup):** P: 4g | C: 35g | F: 14g | ~280 Cal
 *   **Difficulty Rating:** 1/5 (Basic)
+*   **Compatible Systems:** SOP-041 (Meatloaf), SOP-001 (Steak).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Large Pot
@@ -39,7 +41,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Starting with cold water ensures the outside of the potato doesn't turn to "mush" before the inside is cooked.
+*   **Field Intel:** Starting with cold water ensures the outside of the potato doesn't turn to "mush" before the inside is cooked.
 *   **Pro-Tip:** For "Guerilla Style" (Rustic), leave the skins on.
 
 ---

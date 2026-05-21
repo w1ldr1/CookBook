@@ -1,5 +1,6 @@
 # SOP-029: OPERATION SOUTHERN COMFORT
 **Objective:** Layered deployment of Banana Pudding (No-Bake).
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Assembly Ops)
 
 ---
@@ -7,6 +8,7 @@
 ## 1. INTELLIGENCE (The Stats)
 *   **Total Mission Time:** 20 Minutes (Active) + 4 Hours (Cold Soak)
 *   **Difficulty Rating:** 1/5 (No heat required)
+*   **Compatible Systems:** SOP-023 (Red Beans/Southern theme).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Large Glass Bowl or Trifle Dish
@@ -35,7 +37,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Crushing a few wafers on top before serving provides "Tactical Texture."
+*   **Field Intel:** Crushing a few wafers on top before serving provides "Tactical Texture."
 
 ---
 ![Layered banana pudding with wafers on top](../../04_Design_Assets/Images/SOP-029-Banana-Pudding.jpg)

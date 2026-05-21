@@ -1,5 +1,6 @@
 # SOP-022: OPERATION WHITEOUT
 **Objective:** Extraction of high-calorie Sausage Gravy for morning sustainment.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Breakfast Ops)
 
 ---
@@ -8,6 +9,7 @@
 *   **Total Mission Time:** 15 Minutes
 *   **Thermal Dwell (Cook):** 10 Minutes
 *   **Difficulty Rating:** 1/5 (Basic)
+*   **Compatible Systems:** SOP-021 (Biscuits).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 12" Skillet
@@ -35,7 +37,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** If the gravy is too thick, add a splash of milk to re-calibrate.
+*   **Field Intel:** If the gravy is too thick, add a splash of milk to re-calibrate.
 *   **Deployment:** Pour over split biscuits from SOP-021.
 
 ---

@@ -1,5 +1,6 @@
 # SOP-008: OPERATION SILVER SCALE
 **Objective:** Precision execution of skin-on salmon for high-omega fuel.
+**Rank:** Sergeant
 **Mission Type:** Quick Strike (Lean Protein)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 8–10 Minutes
 *   **Target Macros (per 6oz):** P: 34g | C: 0g | F: 18g | ~320 Cal
 *   **Difficulty Rating:** 2/5 (Requires heat management)
+*   **Compatible Systems:**  SOP-034 (Asparagus).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -45,8 +47,8 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Note 01:** If the skin sticks, it’s not ready to flip. Thermal energy will naturally "release" the skin once the crust is formed.
-*   **Field Note 02:** Cold salmon leftovers are elite for "SOP-018: Recon Grain Bowls" the next day.
+*   **Field Intel 01:** If the skin sticks, it’s not ready to flip. Thermal energy will naturally "release" the skin once the crust is formed.
+*   **Field Intel 02:** Cold salmon leftovers are elite for "SOP-018: Recon Grain Bowls" the next day.
 
 ---
 **[Insert Action Photo: A spatula lifting a salmon fillet showing a perfectly crisped, golden skin]**

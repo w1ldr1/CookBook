@@ -1,5 +1,6 @@
 # SOP-034: OPERATION GREEN PERIMETER
 **Objective:** High-speed execution of pan-seared Asparagus or Green Beans.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Vegetable Side-Op)
 
 ---
@@ -8,6 +9,7 @@
 *   **Total Mission Time:** 10 Minutes
 *   **Thermal Dwell (Cook):** 5–7 Minutes
 *   **Difficulty Rating:** 1/5
+*   **Compatible Systems:** SOP-008 (Salmon), SOP-042 (Thighs).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 12" Skillet
@@ -34,7 +36,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Do not cover the pan. Covering it traps steam and turns the vegetables a dull, unappealing grey.
+*   **Field Intel:** Do not cover the pan. Covering it traps steam and turns the vegetables a dull, unappealing grey.
 
 ---
 ![Blistered green beans in a stainless steel pan](../../04_Design_Assets/Images/SOP-034-Green-Beans.jpg)

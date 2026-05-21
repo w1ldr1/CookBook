@@ -1,5 +1,6 @@
 # SOP-013: OPERATION TEXAS BLACK-GOLD
 **Objective:** Precision execution of a central Texas-style Beef Brisket.
+**Rank:** Commander
 **Mission Type:** Heavy Lift (High-Endurance/Overnight Mission)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 8–12 Hours (Indirect) + 2–4 Hour Rest
 *   **Target Macros (per 6oz):** P: 42g | C: 0g | F: 28g | ~420 Cal
 *   **Difficulty Rating:** 5/5 (The "Black Belt" of BBQ)
+*   **Compatible Systems:** SOP-014 (Coastal Infil), SOP-020 (Cornbread), SOP-032 (Mashed Potatoes).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -49,8 +51,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** A brisket is not done by time; it is done by "Feel." 
-*   **Field Note 02:** Save the "Burnt Ends" from the Point for high-value morale boosts.
+*   **Field Intel 01:** A brisket is not done by time; it is done by "Feel." 
+*   **Field Intel 02:** Save the "Burnt Ends" from the Point for high-value morale boosts.
 *   **Logistics:** Leftovers are the "Gold Standard" for breakfast tacos (SOP-014).
 
 ---

@@ -1,6 +1,8 @@
 # SOP-019: OPERATION DAILY BREAD
 **Objective:** Deployment of high-quality crusty bread with zero manual labor (No-Knead).
+**Rank:** Sergeant 
 **Mission Type:** Field Rations (High-Endurance/Passive)
+
 
 ---
 
@@ -10,6 +12,7 @@
 *   **Thermal Dwell (Cook):** 45 Minutes
 *   **Target Macros (per slice):** P: 4g | C: 22g | F: 0.5g | ~110 Cal
 *   **Difficulty Rating:** 1/5 (Requires patience, not skill)
+*   **Compatible Systems:** SOP-028 (Salvage Rations), SOP-033 (Pan Sauce), SOP-001 (Steak).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 6qt Dutch Oven (Enameled or Raw Cast Iron)
@@ -45,7 +48,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** For "Operation: Garlic Bread," add 1 tbsp garlic powder and dried rosemary during Phase 1.
+*   **Field Intel:** For "Operation: Garlic Bread," add 1 tbsp garlic powder and dried rosemary during Phase 1.
 *   **Logistics:** This bread has no preservatives. If not consumed within 48 hours, slice and freeze.
 
 ---

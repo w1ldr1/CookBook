@@ -1,5 +1,6 @@
 # SOP-012: OPERATION OATS AND AMMO
 **Objective:** Pre-staged, high-fiber breakfast rations for zero-prep morning deployment.
+**Rank:** Recruit 
 **Mission Type:** Field Rations (Overnight Prep)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 0 Minutes (Cold Hydration)
 *   **Target Macros (per jar):** P: 30g | C: 45g | F: 12g | ~420 Cal
 *   **Difficulty Rating:** 1/5 (No-heat mission)
+*   **Compatible Systems:** SOP-036 (Liquid Fuel).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -42,8 +44,8 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Note 01:** The chia seeds act as a thickening agent. Without them, the rations will be watery.
-*   **Field Note 02:** These remain viable in the "Field" (fridge) for up to 4 days. Batch-cook 4 jars on Sunday for a work-week solution.
+*   **Field Intel 01:** The chia seeds act as a thickening agent. Without them, the rations will be watery.
+*   **Field Intel 02:** These remain viable in the "Field" (fridge) for up to 4 days. Batch-cook 4 jars on Sunday for a work-week solution.
 
 ---
 **[Insert Action Photo: A row of three mason jars with distinct layers of oats, berries, and peanut butter]**

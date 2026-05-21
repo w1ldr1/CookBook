@@ -1,5 +1,6 @@
 # SOP-025: OPERATION COASTAL EXTRACT
 **Objective:** Precision boiling of shrimp for optimal texture.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Protein Prep)
 
 ---
@@ -8,6 +9,7 @@
 *   **Total Mission Time:** 15 Minutes
 *   **Thermal Dwell (Cook):** 2–3 Minutes
 *   **Difficulty Rating:** 1/5 (Timing critical)
+*   **Compatible Systems:** SOP-015 (Chicken Salad base).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Large Pot
@@ -34,7 +36,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** If the shrimp form an "O" shape, they are overcooked.
+*   **Field Intel:** If the shrimp form an "O" shape, they are overcooked.
 *   **Usage:** Peel and eat, or use in SOP-015 (Cold Payload).
 
 ---

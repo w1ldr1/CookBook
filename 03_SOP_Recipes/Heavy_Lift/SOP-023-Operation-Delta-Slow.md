@@ -1,5 +1,6 @@
 # SOP-023: OPERATION DELTA SLOW
 **Objective:** Long-duration deployment of Red Beans and Rice.
+**Rank:** Sergeant
 **Mission Type:** Heavy Lift (Endurance)
 
 ---
@@ -8,6 +9,7 @@
 *   **Total Mission Time:** 4–6 Hours
 *   **Infil (Prep):** 15 Minutes
 *   **Difficulty Rating:** 2/5 (Patience required)
+*   **Compatible Systems:** SOP-009 (Grain Silo), SOP-020 (Cornbread).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 6qt Dutch Oven
@@ -37,7 +39,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Serve over SOP-009 (Rice).
+*   **Field Intel:** Serve over SOP-009 (Rice).
 *   **Logistics:** Like chili, this is better the next day.
 
 ---

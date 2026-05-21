@@ -1,5 +1,6 @@
 # SOP-020: OPERATION CORNBREAD
 **Objective:** Deployment of high-density Southern-style skillet cornbread.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Side-Op)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 20–25 Minutes
 *   **Target Macros (per slice):** P: 5g | C: 28g | F: 12g | ~240 Cal
 *   **Difficulty Rating:** 1/5 (Basic Maneuvers)
+*   **Compatible Systems:** SOP-016 (Chili), SOP-023 (Red Beans).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x 10" Cast Iron Skillet (The Heavy Armor)
@@ -37,7 +39,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Pouring batter into a hot, buttered skillet creates the "Armor" (crispy crust) that separates professional ops from amateur work.
+*   **Field Intel:** Pouring batter into a hot, buttered skillet creates the "Armor" (crispy crust) that separates professional ops from amateur work.
 *   **Variation:** Add diced jalapeños or corn kernels for "Advanced Recon" flavor.
 
 ---

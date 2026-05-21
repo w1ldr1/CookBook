@@ -1,5 +1,6 @@
 # SOP-009: OPERATION GRAIN SILO
 **Objective:** Batch production of high-stability carbohydrates for weekly sustainment.
+**Rank:** Recruit 
 **Mission Type:** Field Rations (Bulk Prep)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 18 Minutes
 *   **Target Macros (per 1 cup):** P: 5g | C: 45g | F: 1g | ~210 Cal
 *   **Difficulty Rating:** 1/5 (Automated process)
+*   **Compatible Systems:** SOP-002 (Combat Bowl), SOP-035 (Red Sauce), SOP-047 (Curry).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -42,8 +44,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Use this as the base for SOP-002 (Ground Combat Bowl). 
-*   **Field Note 02:** For "Fragrant Ops," add 2 smashed garlic cloves or a piece of ginger to the pot during the boil phase.
+*   **Field Intel 01:** Use this as the base for SOP-002 (Ground Combat Bowl). 
+*   **Field Intel 02:** For "Fragrant Ops," add 2 smashed garlic cloves or a piece of ginger to the pot during the boil phase.
 
 ---
 **[Insert Action Photo: A fork lifting light, fluffy grains of rice from a steaming pot]**

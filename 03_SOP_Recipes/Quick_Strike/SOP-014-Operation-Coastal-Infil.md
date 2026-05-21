@@ -1,5 +1,6 @@
 # SOP-014: OPERATION COASTAL INFIL
 **Objective:** Rapid deployment of Street Tacos using high-heat protein sear.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (High-Speed/Social Mission)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 10 Minutes
 *   **Target Macros (per 3 tacos):** P: 38g | C: 24g | F: 18g | ~410 Cal
 *   **Difficulty Rating:** 2/5 (Requires multi-tasking)
+*   **Compatible Systems:** SOP-013 (Brisket leftovers). 
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -41,8 +43,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Corn tortillas must be toasted; raw corn tortillas are "unstable" and will crumble.
-*   **Field Note 02:** Use the leftover brisket from SOP-013 for a "Special Ops" version of this mission.
+*   **Field Intel 01:** Corn tortillas must be toasted; raw corn tortillas are "unstable" and will crumble.
+*   **Field Intel 02:** Use the leftover brisket from SOP-013 for a "Special Ops" version of this mission.
 
 ---
 **[Insert Action Photo: A street taco held in a hand, lime juice dripping onto the plate]**

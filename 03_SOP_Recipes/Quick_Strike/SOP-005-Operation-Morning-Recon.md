@@ -1,5 +1,6 @@
 # SOP-005: OPERATION MORNING RECON
 **Objective:** High-speed, high-protein front-loading of energy to initiate the daily mission.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Breakfast Ops)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 5 Minutes
 *   **Target Macros:** P: 32g | C: 4g | F: 28g | ~400 Cal (Based on 4 Eggs + Spinach)
 *   **Difficulty Rating:** 1/5 (Basic Maneuvers)
+*   **Compatible Systems:** SOP-021 (Biscuits).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -46,8 +48,8 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Note 01:** For "Stealth Wealth" nutrition, finely chop the spinach before adding; it integrates better and is easier for "Kid Units" to consume.
-*   **Field Note 02:** Never cook eggs on High heat. High heat causes "Protein Tightening," resulting in a rubbery, sulfurous texture.
+*   **Field Intel 01:** For "Stealth Wealth" nutrition, finely chop the spinach before adding; it integrates better and is easier for "Kid Units" to consume.
+*   **Field Intel 02:** Never cook eggs on High heat. High heat causes "Protein Tightening," resulting in a rubbery, sulfurous texture.
 *   **Pro-Tip:** Add a teaspoon of water or heavy cream to the whisking phase for a fluffier "Cloud-Like" consistency.
 
 ---

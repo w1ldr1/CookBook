@@ -1,5 +1,6 @@
 # SOP-031: OPERATION RACK-AND-FILE
 **Objective:** Slow-burn execution of Baby Back Ribs using the "3-2-1" deployment method.
+**Rank:** Commander
 **Mission Type:** Heavy Lift (Outdoor Ops / Smoker Mission)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 6 Hours
 *   **Target Macros (per 1/2 rack):** P: 48g | C: 12g | F: 38g | ~580 Cal
 *   **Difficulty Rating:** 3/5 (Patience-intensive)
+*   **Compatible Systems:** SOP-020 (Cornbread), SOP-032 (Mashed Potatoes).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Smoker or Grill (Indirect Setup)
@@ -41,7 +43,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** "Fall-off-the-bone" is a preference, but a perfect rib should have a clean "bite-through" without the rest of the meat sliding off.
+*   **Field Intel:** "Fall-off-the-bone" is a preference, but a perfect rib should have a clean "bite-through" without the rest of the meat sliding off.
 *   **Logistics:** Save the bones for "SOP-011: Overwatch Broth."
 
 ---

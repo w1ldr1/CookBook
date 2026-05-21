@@ -1,34 +1,49 @@
-# Project: SUSTAINMENT OPERATIONS MANUAL
-## Operational Manual for the Home Provider
+# PROJECT: SUSTAINMENT OPERATIONS MANUAL (VOL. 1)
+## Status: ACTIVE // Phase: PRE-DEPLOYMENT
+**Objective:** The definitive operational manual for the modern Provider.
 
-### I. MISSION STATEMENT
-To transition the modern man from a passive consumer to an active provider. This project aims to design and document a high-utility, modular, and indestructible kitchen manual—built to the aesthetic and functional standards of a Military Field Guide. 
+---
 
-The objective is to frame cooking not as a domestic chore, but as a critical mission: the nourishment and leadership of the "Unit" (family, team, or self).
+## 1. MISSION OVERVIEW
+To transition the modern man from a passive consumer to an active provider. This project is a modular, indestructible kitchen manual built to the functional standards of a Military Field Guide. 
 
-### II. DESIGN PARAMETERS (The "Hardware")
-Unlike standard cookbooks, the physical product is engineered for high-intensity environments:
-- **Modular Design:** 3-ring "Break-Back" easel binder. Pages are removable for mission-specific use or can stand independently on a counter.
-- **Indestructible Media:** Printed on waterproof, grease-resistant synthetic paper (e.g., Rite in the Rain or Tyvek).
-- **Tactical Aesthetic:** OD Green/Coyote Tan color palette, stencil typography, and high-contrast instructional photography.
+### THE HARDWARE (Physical Design)
+*   **Chassis:** 3-Ring "Break-Back" Easel Binder for hands-free, eye-level data retrieval.
+*   **Deployment Media:** 100% Waterproof and Greaseproof synthetic paper (Rite in the Rain / Revlar).
+*   **Modularity:** Removable pages for grocery recon or remote field ops.
 
-### III. OPERATIONAL TERMINOLOGY
-To maintain the field guide ethos, we utilize the following nomenclature:
-- **SOP (Standard Operating Procedure):** A Recipe.
-- **Hardware:** Kitchen tools, pans, and appliances.
-- **Supplies:** Ingredients and raw materials.
-- **Infil:** Prep work and mise-en-place.
-- **Exfil:** Cleaning and storage of leftovers.
-- **AAR (After Action Report):** Recipe notes and variations for future iterations.
+---
 
-### IV. REPOSITORY STRUCTURE
-- `/01_Intelligence`: Market research, target demographics, and cost-benefit analysis.
-- `/02_Hardware_Specs`: Physical design specs (binder mechanics, paper weight, coating).
-- `/03_SOP_Recipes`: The core content. Every recipe follows the `SOP_TEMPLATE.md`.
-- `/04_Design_Assets`: Fonts, icons, and color hex codes.
-- `/05_Logistics`: Manufacturer contacts, shipping estimates, and ISBN data.
+## 2. REPOSITORY ARCHITECTURE
+- **`/00_Table_of_Distribution`**: The Master Index and Mission Grid.
+- **`/01_Intelligence`**: Operational theory, safety, nutrition, and market recon.
+- **`/02_Hardware_Specs`**: The Armory. Maintenance and gear acquisition.
+- **`/03_SOP_Recipes`**: 
+    - `Quick_Strike`: Missions < 30m.
+    - `Heavy_Lift`: Long-duration/Roast ops.
+    - `Field_Rations`: Bulk prep and sustainment.
+    - `Morale_Boosters`: Beverage and dessert ops.
+- **`/04_Design_Assets`**: Style guides, fonts, and Tab Divider specs.
+- **`/05_Logistics_Supply`**: Production costs, manufacturer intel, and physical specs.
+- **`/06_Marketing_Comms`**: Launch strategy, Kickstarter deployment, and funnel logic.
 
-### V. CONTRIBUTING
-When adding a new SOP, ensure you follow the standardized formatting. All "Field Testing" (cooking the recipe) must be documented in the "Issues" tab for version control.
+---
 
-**"Eat to lead. Cook to provide."**
+## 3. OPERATIONAL NOMENCLATURE
+To maintain consistency across the series, use the following terminology:
+*   **Rank:** Recruit (Basic), Sergeant (Multi-task), Commander (Advanced).
+*   **Infil:** Prep work and mise-en-place.
+*   **Engagement:** The active cooking phase.
+*   **Exfil:** Cleaning, plating, and storage.
+*   **Field Intel:** Technical tips and tricks.
+*   **Secondary Objective:** Optional variations or enhancements.
+
+---
+
+## 4. THE SERIES VISION
+This is Volume 1: **FOUNDATIONS**. Future volumes will expand into:
+*   *Vol 2: FLAME & STEEL* (Outdoor/Grilling).
+*   *Vol 3: DEEP FREEZE* (Advanced Meal Prep).
+
+---
+**"Eat to Lead. Cook to Provide."**

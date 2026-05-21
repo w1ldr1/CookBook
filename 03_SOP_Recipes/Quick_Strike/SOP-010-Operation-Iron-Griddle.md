@@ -1,5 +1,6 @@
 # SOP-010: OPERATION IRON GRIDDLE
 **Objective:** Execution of high-surface-area "Smash Burgers" for maximum Maillard reaction (crust).
+**Rank:** Sergeant
 **Mission Type:** Quick Strike (High-Speed Morale Boost)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 4 Minutes
 *   **Target Macros (per 2 patties):** P: 42g | C: 2g | F: 34g | ~480 Cal
 *   **Difficulty Rating:** 2/5 (Requires aggressive force)
+*   **Compatible Systems:**  SOP-043 (Roots).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -48,8 +50,8 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Note 01:** The parchment paper prevents the meat from sticking to your "Smash Tool."
-*   **Field Note 02:** 80/20 beef is required. Leaner meat (90/10) will result in dry rations and won't produce the necessary "lacey" edges.
+*   **Field Intel 01:** The parchment paper prevents the meat from sticking to your "Smash Tool."
+*   **Field Intel 02:** 80/20 beef is required. Leaner meat (90/10) will result in dry rations and won't produce the necessary "lacey" edges.
 *   **Visual Intel:** The patties should look "destroyed" and uneven; this creates the maximum flavor surface.
 
 ---

@@ -1,15 +1,13 @@
 # SOP-004: OPERATION BULK SUSTAINMENT
 **Objective:** Batch production of high-yield pulled protein for 5+ days of rations.
-**Mission Type:** Field Rations (Meal Prep / Slow-Cook)
-
+**Rank:** Sergeant
+**Mission Type:** Field Rations
 ---
 
 ## 1. INTELLIGENCE (The Stats)
 *   **Total Mission Time:** 8 Hours (Passive)
-*   **Infil (Prep):** 15 Minutes
-*   **Thermal Dwell (Cook):** 8 Hours (Low) or 4 Hours (High)
 *   **Target Macros (per 6oz):** P: 42g | C: 0g | F: 24g | ~380 Cal
-*   **Difficulty Rating:** 1/5 (Set and Forget)
+*   **Compatible Systems:** SOP-014 (Coastal Infil / Tacos), SOP-020 (Cornbread).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -44,13 +42,8 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-
-*   **Field Note 01:** Do not discard the remaining liquid in the cooker. Strain it and store it to reheat the meat later.
-*   **Deployment Options:** Use this "Base Ration" for:
-    *   *Taco Maneuvers:* Add lime and cilantro.
-    *   *BBQ Maneuvers:* Add standard-issue BBQ sauce.
-    *   *Breakfast Ops:* Fry with eggs and potatoes.
-*   **Storage:** Store in airtight containers. Rations remain viable for 4 days in refrigeration or 3 months in the freezer.
+*   **Field Intel:** The "bone-in" shoulder provides superior thermal stability and collagen extraction.
+*   **Secondary Objective:** Save the "Pork Fat" (Lard) in a jar to use as a lubricant for future "Quick Strike" egg missions.
 
 ---
 **[Insert Action Photo: Two forks shredding a massive, steaming pork shoulder in a steel bowl]**

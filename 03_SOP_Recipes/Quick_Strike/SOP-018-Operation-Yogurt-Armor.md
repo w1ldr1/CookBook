@@ -1,5 +1,6 @@
 # SOP-018: OPERATION YOGURT ARMOR
 **Objective:** Deployment of a high-utility sponge cake (Bizcocho) using the 3-2-1 Ratio.
+**Rank:** Recruit
 **Mission Type:** Quick Strike (Zero-Scale Mission)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 35 Minutes
 *   **Target Macros (per slice):** P: 5g | C: 32g | F: 12g | ~240 Cal
 *   **Difficulty Rating:** 1/5 (No measuring cups required)
+*   **Compatible Systems:** SOP-036 (Coffee).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -41,7 +43,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** This is the most efficient cake in the manual. No scale or measuring cups makes it ideal for "Remote Ops."
+*   **Field Intel:** This is the most efficient cake in the manual. No scale or measuring cups makes it ideal for "Remote Ops."
 *   **Tactical Variation:** Fold in 1 measure of chocolate chips or blueberries for a morale boost.
 
 ---

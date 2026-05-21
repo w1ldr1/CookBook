@@ -1,5 +1,6 @@
 # SOP-033: OPERATION FORCE MULTIPLIER
 **Objective:** Tactical extraction of "Fond" into a high-value Pan Sauce.
+**Rank:** Sergeant
 **Mission Type:** Quick Strike (Skill Upgrade)
 
 ---
@@ -8,6 +9,7 @@
 *   **Total Mission Time:** 5 Minutes
 *   **Target:** Turns a basic protein mission into a 5-star Hostage Rescue mission.
 *   **Difficulty Rating:** 2/5 (Requires timing)
+*   **Compatible Systems:** SOP-001 (Steak), SOP-030 (Pork).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Whisk or Wooden Spoon
@@ -37,7 +39,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** The butter must be **cold**. If it’s warm, the sauce will "break" and turn greasy.
+*   **Field Intel:** The butter must be **cold**. If it’s warm, the sauce will "break" and turn greasy.
 *   **Usage:** Pour over SOP-001 (Steak) or SOP-030 (Pork) immediately.
 
 ---

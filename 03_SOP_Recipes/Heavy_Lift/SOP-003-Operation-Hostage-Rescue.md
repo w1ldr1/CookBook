@@ -1,5 +1,6 @@
 # SOP-003: OPERATION HOSTAGE RESCUE
 **Objective:** High-impact "Show-Stopper" roast to secure the satisfaction of guest assets.
+**Rank:** Sergeant
 **Mission Type:** Heavy Lift (Entertaining / High-Stakes)
 
 ---
@@ -10,6 +11,7 @@
 *   **Thermal Dwell (Cook):** 90 Minutes (Indirect) + 6 Minutes (Direct Sear)
 *   **Target Macros (per 8oz):** P: 48g | C: 0g | F: 22g | ~410 Cal
 *   **Difficulty Rating:** 3/5 (Requires thermal discipline)
+*   **Compatible Systems:** SOP-032 (Mashed Potatoes), SOP-006 (Green Cover), SOP-033 (Pan Sauce).
 
 ## 2. HARDWARE (Standard Issue)
 *Required tools for mission success:*
@@ -51,8 +53,8 @@
 
 ## 5. AFTER ACTION REPORT (AAR)
 
-*   **Field Note 01:** The "Reverse Sear" method ensures the meat is edge-to-edge pink, with no grey "overcooked" ring. This is what impresses the guests.
-*   **Field Note 02:** If the guests prefer "Medium," pull the roast at 140°F during the sear.
+*   **Field Intel 01:** The "Reverse Sear" method ensures the meat is edge-to-edge pink, with no grey "overcooked" ring. This is what impresses the guests.
+*   **Field Intel 02:** If the guests prefer "Medium," pull the roast at 140°F during the sear.
 *   **Leftover Utility:** Cold sliced Tri-Tip is elite for "SOP-015: Tactical Sandwiches."
 
 ---

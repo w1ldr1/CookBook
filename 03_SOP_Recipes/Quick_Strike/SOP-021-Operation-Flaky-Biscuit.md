@@ -1,5 +1,6 @@
 # SOP-021: OPERATION FLAKY BISCUIT
 **Objective:** Rapid deployment of "Cathead" style Buttermilk Biscuits.
+**Rank:** Sergeant
 **Mission Type:** Quick Strike (Side-Op)
 
 ---
@@ -9,6 +10,7 @@
 *   **Infil (Prep):** 10 Minutes
 *   **Thermal Dwell (Cook):** 12–15 Minutes
 *   **Difficulty Rating:** 2/5 (Requires cold-fat management)
+*   **Compatible Systems:** SOP-022 (Sausage Gravy).
 
 ## 2. HARDWARE (Standard Issue)
 - [ ] 1x Baking Sheet or Cast Iron Skillet
@@ -36,7 +38,7 @@
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Note 01:** Keeping the butter frozen is the critical success factor. 
+*   **Field Intel:** Keeping the butter frozen is the critical success factor. 
 *   **Usage:** Primary vehicle for SOP-022 (Sausage & Gravy).
 
 ---
