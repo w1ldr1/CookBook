@@ -2,9 +2,7 @@
 
 # SOP-001: OPERATION PRIMAL SEAR
 **Objective:** Execution of a perfect medium-rare Ribeye using high-thermal mass hardware.
-**Mission Type:** Heavy Lift (Foundational Technique)
-
----
+...
 
 ## 1. INTELLIGENCE (The Stats)
 *   **Total Mission Time:** 50 Minutes
