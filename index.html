@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Project Sustainment — Mission Brief</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,700&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #0d0d0d;
+      font-family: 'Roboto Mono', monospace;
+      -webkit-font-smoothing: antialiased;
+      color: #F2F2F2;
+    }
+    .font-ops { font-family: 'Black Ops One', cursive; }
+
+    /* ── Scroll-reveal ── */
+    .sr { opacity: 0; transform: translateY(22px); transition: opacity .55s cubic-bezier(.22,1,.36,1), transform .55s cubic-bezier(.22,1,.36,1); }
+    .sr.sr-2 { transition-delay: .08s; }
+    .sr.sr-3 { transition-delay: .16s; }
+    .sr.sr-4 { transition-delay: .24s; }
+    .sr.sr-5 { transition-delay: .32s; }
+    .sr.sr-6 { transition-delay: .40s; }
+    .sr.visible { opacity: 1; transform: translateY(0); }
+
+    /* ── Hero load-in (no scroll needed) ── */
+    .hero-1 { animation: fadeUp .6s cubic-bezier(.22,1,.36,1) .1s both; }
+    .hero-2 { animation: fadeUp .6s cubic-bezier(.22,1,.36,1) .2s both; }
+    .hero-3 { animation: fadeUp .6s cubic-bezier(.22,1,.36,1) .32s both; }
+    .hero-4 { animation: fadeUp .6s cubic-bezier(.22,1,.36,1) .44s both; }
+    .hero-5 { animation: fadeUp .6s cubic-bezier(.22,1,.36,1) .56s both; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(22px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── Bounce (scroll arrow) ── */
+    .bounce { animation: bounce 2.3s ease-in-out infinite; }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50%       { transform: translateY(7px); }
+    }
+
+    /* ── Pulse dot ── */
+    .pulse { animation: pulse 2s infinite; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: .25; }
+    }
+
+    /* ── REC blink ── */
+    .blink { animation: blink 1.4s step-end infinite; }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0; }
+    }
+
+    /* ── Progress bar fill on load ── */
+    .bar-fill { transition: width 1.2s cubic-bezier(.22,1,.36,1) .8s; }
+
+    /* ── Nav transition ── */
+    #nav { transition: background .3s, box-shadow .3s, border-color .3s; }
+
+    /* ── Hover card lift ── */
+    .spec-card:hover { border-color: rgba(75,83,32,.65) !important; }
+    .spec-card:hover .spec-dot { background: #FF6600 !important; }
+    .sop-card:hover { border-color: #2e2e2e !important; }
+    .sop-card:hover .sop-icon { opacity: .6 !important; }
+
+    /* ── Scrollbar ── */
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: #111; }
+    ::-webkit-scrollbar-thumb { background: #4B5320; }
+
+    /* ── Tailwind overrides for selection ── */
+    ::selection { background: #4B5320; color: #F2F2F2; }
+  </style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- NAV                                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<nav id="nav" class="fixed inset-x-0 top-0 z-50">
+  <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+    <div class="flex items-center gap-3">
+      <div class="w-8 h-8 border border-[#FF6600] bg-[#4B5320]/20 flex items-center justify-center flex-shrink-0">
+        <span class="text-[#FF6600] text-[10px] font-bold">PS</span>
+      </div>
+      <span class="font-ops text-[#F2F2F2] text-sm tracking-[.22em]">PROJECT SUSTAINMENT</span>
+    </div>
+    <button
+      onclick="document.getElementById('enlist').scrollIntoView({behavior:'smooth'})"
+      class="font-mono text-[10px] text-[#A59C82] tracking-widest border border-[#A59C82]/25 px-5 py-2 hover:border-[#FF6600] hover:text-[#FF6600] transition-all duration-200"
+    >
+      VANGUARD PORTAL ▶
+    </button>
+  </div>
+</nav>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- HERO                                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<section class="relative min-h-screen flex items-center bg-[#111111] overflow-hidden">
+  <!-- Tactical grid -->
+  <div class="absolute inset-0 opacity-[.055]" style="background-image:linear-gradient(#4B5320 1px,transparent 1px),linear-gradient(90deg,#4B5320 1px,transparent 1px);background-size:48px 48px;"></div>
+  <!-- Vignette -->
+  <div class="absolute inset-0 pointer-events-none" style="background:radial-gradient(ellipse at 50% 60%,transparent 35%,#0d0d0d 100%);"></div>
+  <!-- Classification strip -->
+  <div class="absolute top-16 inset-x-0 border-y border-[#4B5320]/15 py-1.5">
+    <p class="text-center font-mono text-[9px] text-[#4B5320]/50 tracking-[.35em]">UNCLASSIFIED // FOR OFFICIAL USE ONLY // MISSION: ALPHA-SUSTAINMENT-001</p>
+  </div>
+
+  <div class="relative max-w-6xl mx-auto px-6 pt-36 pb-28 w-full">
+    <!-- Live badge -->
+    <div class="flex items-center gap-2.5 mb-8 hero-1">
+      <span class="w-2 h-2 rounded-full bg-[#FF6600] pulse"></span>
+      <span class="font-mono text-[10px] text-[#A59C82] tracking-[.3em]">MISSION STATUS // ACTIVE</span>
+    </div>
+
+    <!-- Headline -->
+    <h1 class="font-ops leading-[.92] tracking-[-0.02em] text-[#F2F2F2] mb-6 hero-2" style="font-size:clamp(3rem,9vw,7.5rem);">
+      STOP COOKING.<br>
+      <span class="text-[#FF6600]">START<br class="sm:hidden"> PROVIDING.</span>
+    </h1>
+
+    <!-- Sub-headline -->
+    <p class="font-mono text-sm text-[#A59C82] leading-[1.8] max-w-lg border-l-2 border-[#4B5320] pl-5 mb-10 hero-3">
+      The world's first indestructible, military-grade operational manual for the home kitchen.
+      Built for performance. Engineered to survive.
+    </p>
+
+    <!-- Stats -->
+    <div class="flex flex-wrap gap-3 mb-11 hero-4">
+      <div class="border border-[#4B5320]/50 bg-[#4B5320]/5 px-5 py-3">
+        <div class="font-mono font-bold text-[#FF6600] text-2xl">50+</div>
+        <div class="font-mono text-[9px] text-[#4B5320] tracking-[.25em] mt-1">SOPs DEPLOYED</div>
+      </div>
+      <div class="border border-[#4B5320]/50 bg-[#4B5320]/5 px-5 py-3">
+        <div class="font-mono font-bold text-[#FF6600] text-2xl">2,400+</div>
+        <div class="font-mono text-[9px] text-[#4B5320] tracking-[.25em] mt-1">OPERATORS BRIEFED</div>
+      </div>
+      <div class="border border-[#4B5320]/50 bg-[#4B5320]/5 px-5 py-3">
+        <div class="font-mono font-bold text-[#FF6600] text-2xl">0</div>
+        <div class="font-mono text-[9px] text-[#4B5320] tracking-[.25em] mt-1">EXCUSES AUTHORIZED</div>
+      </div>
+    </div>
+
+    <!-- CTAs -->
+    <div class="flex flex-col sm:flex-row items-start gap-4 hero-5">
+      <button
+        onclick="document.getElementById('enlist').scrollIntoView({behavior:'smooth'})"
+        class="bg-[#FF6600] hover:bg-[#e55a00] text-white font-mono text-sm tracking-widest px-10 py-5 transition-colors duration-200"
+        style="box-shadow:0 0 36px rgba(255,102,0,.25)"
+      >
+        SECURE THE MISSION PACK ▶
+      </button>
+      <button
+        onclick="document.getElementById('eval').scrollIntoView({behavior:'smooth'})"
+        class="font-mono text-[10px] text-[#A59C82] hover:text-[#F2F2F2] border border-transparent hover:border-[#4B5320]/40 px-4 py-5 tracking-widest transition-all duration-200"
+      >
+        VIEW FIELD INTEL ↓
+      </button>
+    </div>
+  </div>
+
+  <!-- Scroll arrow -->
+  <div class="absolute bottom-10 inset-x-0 flex flex-col items-center gap-2 bounce">
+    <span class="font-mono text-[9px] text-[#4B5320]/50 tracking-[.3em]">SCROLL TO RECEIVE BRIEFING</span>
+    <!-- ChevronDown SVG -->
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#4B5320" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:.5">
+      <polyline points="6 9 12 15 18 9"/>
+    </svg>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- TACTICAL EVALUATION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<section id="eval" class="bg-[#0d0d0d] py-28">
+  <div class="max-w-7xl mx-auto px-6">
+
+    <div class="text-center mb-16 sr">
+      <p class="font-mono text-[9px] text-[#4B5320] tracking-[.3em] mb-3">FIELD ASSESSMENT // DOC-7742 // UNCLASSIFIED</p>
+      <h2 class="font-ops text-[#F2F2F2] tracking-tight" style="font-size:clamp(2rem,5vw,3.5rem)">TACTICAL EVALUATION</h2>
+      <div class="mt-5 h-px max-w-xs mx-auto" style="background:linear-gradient(to right,transparent,#4B5320,transparent)"></div>
+    </div>
+
+    <!-- Column headers -->
+    <div class="grid gap-2 mb-3 sr sr-2" style="grid-template-columns:2fr 3fr 3fr">
+      <div class="font-mono text-[9px] text-[#444] tracking-widest flex items-end pb-2">CRITERIA</div>
+      <div class="text-center border border-red-900/40 bg-red-950/15 py-3 px-4">
+        <p class="font-mono text-[10px] text-red-500 tracking-widest">STANDARD COOKBOOK</p>
+        <p class="font-mono text-[8px] text-red-900 mt-1 tracking-widest">STATUS: MISSION FAILURE</p>
+      </div>
+      <div class="text-center border border-[#4B5320]/50 py-3 px-4" style="background:rgba(75,83,32,.08)">
+        <p class="font-ops text-[#FF6600] text-[10px] tracking-widest">PROJECT SUSTAINMENT</p>
+        <p class="font-mono text-[8px] text-[#4B5320] mt-1 tracking-widest">STATUS: MISSION SUCCESS</p>
+      </div>
+    </div>
+
+    <!-- Rows -->
+    <div id="eval-rows"></div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- HARDWARE SPECS                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<section class="relative bg-[#0a150a] py-28 overflow-hidden">
+  <!-- Blueprint grid -->
+  <div class="absolute inset-0 opacity-[.13]" style="background-image:linear-gradient(rgba(75,83,32,.6) 1px,transparent 1px),linear-gradient(90deg,rgba(75,83,32,.6) 1px,transparent 1px);background-size:60px 60px;"></div>
+  <!-- Corners -->
+  <div class="absolute top-8 left-8 w-5 h-5 border-t border-l border-[#4B5320]/20"></div>
+  <div class="absolute top-8 right-8 w-5 h-5 border-t border-r border-[#4B5320]/20"></div>
+  <div class="absolute bottom-8 left-8 w-5 h-5 border-b border-l border-[#4B5320]/20"></div>
+  <div class="absolute bottom-8 right-8 w-5 h-5 border-b border-r border-[#4B5320]/20"></div>
+
+  <div class="relative max-w-7xl mx-auto px-6">
+    <div class="mb-16 sr">
+      <p class="font-mono text-[9px] text-[#4B5320] tracking-[.3em] mb-3">HARDWARE MANIFEST // TS-HARDWARE-001</p>
+      <h2 class="font-ops text-[#F2F2F2] tracking-tight" style="font-size:clamp(2rem,5vw,3.5rem)">HARDWARE SPECS</h2>
+      <p class="font-mono text-xs text-[#A59C82] mt-4 max-w-lg leading-[1.8]">Standard-issue equipment engineered for the most hostile kitchen environments on earth. Every component selected for maximum operational durability.</p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6" id="hw-cards"></div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- SOP GRID                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<section class="bg-[#111111] py-28">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="text-center mb-16 sr">
+      <p class="font-mono text-[9px] text-[#4B5320] tracking-[.3em] mb-3">MISSION LIBRARY // 50 CONFIRMED SOPs // 4 ASSET CATEGORIES</p>
+      <h2 class="font-ops text-[#F2F2F2] tracking-tight" style="font-size:clamp(2rem,5vw,3.5rem)">THE SOP GRID</h2>
+      <div class="mt-5 h-px max-w-xs mx-auto" style="background:linear-gradient(to right,transparent,#4B5320,transparent)"></div>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-5" id="sop-grid"></div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- TORTURE TEST                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<section class="bg-[#0d0d0d] py-28">
+  <div class="max-w-5xl mx-auto px-6">
+
+    <div class="text-center mb-14 sr">
+      <p class="font-mono text-[9px] text-[#FF6600] tracking-[.3em] mb-3 blink">● REC // CLASSIFIED FIELD FOOTAGE</p>
+      <h2 class="font-ops text-[#F2F2F2] tracking-tight" style="font-size:clamp(2rem,5vw,3.5rem)">THE TORTURE TEST</h2>
+    </div>
+
+    <!-- Video placeholder -->
+    <div class="sr sr-2">
+      <div
+        id="video-box"
+        class="relative w-full bg-[#0a0a0a] border border-[#4B5320]/30 overflow-hidden cursor-pointer"
+        style="aspect-ratio:16/9"
+        onclick="this.classList.toggle('playing')"
+      >
+        <!-- Scan lines -->
+        <div class="absolute inset-0 z-10 pointer-events-none opacity-15" style="background-image:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.6) 2px,rgba(0,0,0,.6) 4px);"></div>
+        <!-- Corner brackets -->
+        <div class="absolute top-5 left-5 w-8 h-8 border-t-2 border-l-2 border-[#FF6600]/60 z-20"></div>
+        <div class="absolute top-5 right-5 w-8 h-8 border-t-2 border-r-2 border-[#FF6600]/60 z-20"></div>
+        <div class="absolute bottom-5 left-5 w-8 h-8 border-b-2 border-l-2 border-[#FF6600]/60 z-20"></div>
+        <div class="absolute bottom-5 right-5 w-8 h-8 border-b-2 border-r-2 border-[#FF6600]/60 z-20"></div>
+        <!-- Status label -->
+        <p class="absolute top-5 left-1/2 -translate-x-1/2 font-mono text-[9px] text-[#FF6600] tracking-widest z-20 whitespace-nowrap">■ STANDBY // PRESS TO DEPLOY FOOTAGE</p>
+        <p class="absolute bottom-5 left-1/2 -translate-x-1/2 font-mono text-[8px] text-[#A59C82]/40 tracking-widest z-20 whitespace-nowrap">[FOOTAGE: 72HR WATER IMMERSION TEST // SOP-001 CARD // CLASSIFIED]</p>
+        <!-- Play button -->
+        <div class="absolute inset-0 flex items-center justify-center z-20">
+          <div id="play-btn" class="w-20 h-20 rounded-full border-2 border-[#FF6600] flex items-center justify-center transition-all duration-300 hover:bg-[#FF6600]/10">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor" stroke="none" class="text-[#FF6600] ml-1" style="color:#FF6600">
+              <polygon points="5 3 19 12 5 21 5 3"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+
+      <!-- Caption -->
+      <p class="font-mono text-center text-base text-[#A59C82] italic mt-8">
+        "Your grandmother's cookbook would be dead.
+        <span class="font-ops text-[#FF6600] not-italic"> Ours is just getting started.</span>"
+      </p>
+
+      <!-- Test result cards -->
+      <div class="grid grid-cols-3 gap-3 mt-8">
+        <div class="border border-[#4B5320]/20 bg-[#4B5320]/5 px-4 py-5 text-center">
+          <p class="font-mono text-[9px] text-[#4B5320] tracking-widest mb-3">WATER IMMERSION</p>
+          <p class="font-mono text-sm text-[#F2F2F2] font-medium mb-2">72 HOURS SUBMERGED</p>
+          <p class="font-mono text-[9px] text-[#FF6600] tracking-widest">// PASS</p>
+        </div>
+        <div class="border border-[#4B5320]/20 bg-[#4B5320]/5 px-4 py-5 text-center">
+          <p class="font-mono text-[9px] text-[#4B5320] tracking-widest mb-3">GREASE CONTACT</p>
+          <p class="font-mono text-sm text-[#F2F2F2] font-medium mb-2">FULL SURFACE WIPE</p>
+          <p class="font-mono text-[9px] text-[#FF6600] tracking-widest">// PASS</p>
+        </div>
+        <div class="border border-[#4B5320]/20 bg-[#4B5320]/5 px-4 py-5 text-center">
+          <p class="font-mono text-[9px] text-[#4B5320] tracking-widest mb-3">STEAM EXPOSURE</p>
+          <p class="font-mono text-sm text-[#F2F2F2] font-medium mb-2">4 HOURS DIRECT</p>
+          <p class="font-mono text-[9px] text-[#FF6600] tracking-widest">// PASS</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- LEAD CAPTURE                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<section id="enlist" class="bg-[#111] py-28 border-t border-[#4B5320]/20">
+  <div class="max-w-2xl mx-auto px-6">
+
+    <div class="text-center mb-12 sr">
+      <p class="font-mono text-[9px] text-[#FF6600] tracking-[.3em] mb-3">EARLY DEPLOYMENT // VANGUARD ENROLLMENT // OPEN</p>
+      <h2 class="font-ops text-[#F2F2F2] tracking-tight mb-4" style="font-size:clamp(2rem,5vw,3rem)">JOIN THE VANGUARD</h2>
+      <p class="font-mono text-xs text-[#A59C82] leading-[1.8] max-w-md mx-auto">Secure your early deployment discount and become one of the first 500 operators to receive a serialized stainless steel unit plate.</p>
+    </div>
+
+    <!-- Incentives -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-10 sr sr-2">
+      <div class="border border-[#4B5320]/30 bg-[#4B5320]/5 p-5 flex gap-3">
+        <span class="text-xl flex-shrink-0">⚡</span>
+        <div>
+          <p class="font-mono text-[9px] text-[#FF6600] tracking-widest mb-2">EARLY DEPLOYMENT DISCOUNT</p>
+          <p class="font-mono text-[10px] text-[#A59C82] leading-[1.7]">20% off pre-order pricing. Rate locked at time of enrollment. No further action required.</p>
+        </div>
+      </div>
+      <div class="border border-[#4B5320]/30 bg-[#4B5320]/5 p-5 flex gap-3">
+        <span class="text-xl flex-shrink-0">🔩</span>
+        <div>
+          <p class="font-mono text-[9px] text-[#FF6600] tracking-widest mb-2">SERIALIZED UNIT PLATE</p>
+          <p class="font-mono text-[10px] text-[#A59C82] leading-[1.7]">First 500 operators receive a laser-etched stainless steel plate. Your serial. Your unit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Progress bar -->
+    <div class="mb-8 sr sr-3">
+      <div class="flex justify-between font-mono text-[9px] text-[#555] tracking-widest mb-2">
+        <span>VANGUARD UNIT PLATES REMAINING</span>
+        <span class="text-[#FF6600]">347 / 500 CLAIMED</span>
+      </div>
+      <div class="h-1.5 bg-[#1a1a1a] border border-[#2a2a2a] overflow-hidden">
+        <div class="h-full bg-[#FF6600] bar-fill" style="width:0%" id="progress-bar"></div>
+      </div>
+      <p class="font-mono text-[8px] text-[#3a3a3a] mt-1.5 tracking-widest">153 PLATES REMAINING // SERIAL NUMBERS NOT GUARANTEED AFTER THRESHOLD</p>
+    </div>
+
+    <!-- Form -->
+    <div class="sr sr-4" id="form-area">
+      <form id="enlist-form" onsubmit="submitForm(event)">
+        <div class="border border-[#4B5320]/40 bg-[#0d0d0d] flex items-stretch">
+          <div class="flex-1 flex items-center px-4 gap-3">
+            <!-- Mail SVG -->
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#4B5320" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0">
+              <rect x="2" y="4" width="20" height="16" rx="2"/>
+              <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+            </svg>
+            <input
+              type="email"
+              required
+              placeholder="COMMS ADDRESS (EMAIL)"
+              class="w-full bg-transparent py-5 font-mono text-xs text-[#F2F2F2] focus:outline-none tracking-wider"
+              style="color-scheme:dark"
+            />
+          </div>
+          <button type="submit" class="bg-[#FF6600] hover:bg-[#e55a00] text-white font-mono text-xs tracking-widest px-7 py-5 transition-colors duration-200 border-l border-[#e55a00] flex-shrink-0">
+            INFIL ▶
+          </button>
+        </div>
+        <p class="font-mono text-[8px] text-[#333] mt-3 text-center tracking-widest">NO SPAM // NO FLANKING MANEUVERS // UNSUBSCRIBE AT ANY TIME // COMMS ENCRYPTED</p>
+      </form>
+      <div id="enlist-confirm" class="hidden border border-[#4B5320] bg-[#4B5320]/10 py-10 px-8 text-center">
+        <p class="font-mono text-[9px] text-[#4B5320] tracking-[.3em] mb-3">TRANSMISSION RECEIVED</p>
+        <p class="font-ops text-[#FF6600] text-2xl mb-3">ENROLLMENT CONFIRMED</p>
+        <p class="font-mono text-xs text-[#A59C82] leading-relaxed">Welcome to the Vanguard. Intel package inbound to your comms channel.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- FOOTER                                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<footer class="bg-[#0a0a0a] border-t border-[#1a1a1a] py-8">
+  <div class="max-w-7xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-3">
+    <p class="font-ops text-[#222] text-xs tracking-[.2em]">PROJECT SUSTAINMENT</p>
+    <p class="font-mono text-[8px] text-[#222] tracking-[.2em]">CLASSIFICATION: UNCLASSIFIED // DISTRIBUTION UNLIMITED // ALL RIGHTS RESERVED</p>
+    <p class="font-mono text-[8px] tracking-[.15em]" style="color:#4B5320">WEBSITE BY POCKETSOD</p>
+  </div>
+</footer>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- SCRIPTS                                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<script>
+/* ── Nav solidify on scroll ── */
+const nav = document.getElementById('nav');
+window.addEventListener('scroll', () => {
+  if (window.scrollY > 40) {
+    nav.style.background = 'rgba(13,13,13,.95)';
+    nav.style.backdropFilter = 'blur(8px)';
+    nav.style.borderBottom = '1px solid rgba(75,83,32,.3)';
+    nav.style.boxShadow = '0 2px 24px rgba(0,0,0,.7)';
+  } else {
+    nav.style.background = '';
+    nav.style.backdropFilter = '';
+    nav.style.borderBottom = '';
+    nav.style.boxShadow = '';
+  }
+}, { passive: true });
+
+/* ── Scroll-reveal with IntersectionObserver ── */
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); } });
+}, { rootMargin: '-80px 0px' });
+document.querySelectorAll('.sr').forEach(el => observer.observe(el));
+
+/* ── Comparison rows ── */
+const ROWS = [
+  ['WATER RESISTANCE',     'DESTROYED // PAPER DISINTEGRATES ON CONTACT',  'WATERPROOF SYNTHETIC // FULL IMMERSION RATED'],
+  ['STRUCTURAL INTEGRITY', 'CLASSIFIED: FRAGILE // FALLS APART UNDER USE', 'MIL-SPEC 3-RING BINDER // INDESTRUCTIBLE'],
+  ['INSTRUCTION CLARITY',  '"A PINCH OF THIS…" (VAGUE INTEL)',             'SOP-GRADE PRECISION // EXACT MEASUREMENTS'],
+  ['MODULARITY',           'FIXED BINDING // NON-ADAPTABLE',               'REMOVABLE PAGES // MISSION-SPECIFIC LOADOUT'],
+  ['FIELD SURVIVABILITY',  'DESTROYED BY HEAT, STEAM, AND GREASE',         'SURVIVES ALL KITCHEN ENVIRONMENTS'],
+  ['OPERATOR CONFIDENCE',  'GUESSWORK AND MISSION FAILURE',                'STEP-BY-STEP EXECUTION PROTOCOL'],
+];
+const evalRows = document.getElementById('eval-rows');
+ROWS.forEach(([label, bad, good], i) => {
+  const delay = (i * 0.07).toFixed(2);
+  evalRows.innerHTML += `
+    <div class="grid gap-2 mb-1.5 sr" style="grid-template-columns:2fr 3fr 3fr;transition-delay:${delay}s">
+      <div class="flex items-center font-mono text-[10px] text-[#555] border-l border-[#1e1e1e] pl-3 py-3">${label}</div>
+      <div class="flex items-start gap-2 border border-red-950/30 px-4 py-3" style="background:rgba(69,10,10,.08)">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#b91c1c" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        <span class="font-mono text-[9px] text-red-600/70 leading-relaxed">${bad}</span>
+      </div>
+      <div class="flex items-start gap-2 border border-[#4B5320]/25 px-4 py-3" style="background:rgba(75,83,32,.05)">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#4B5320" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"/></svg>
+        <span class="font-mono text-[9px] text-[#A59C82] leading-relaxed">${good}</span>
+      </div>
+    </div>`;
+});
+// Re-observe new sr elements
+document.querySelectorAll('#eval-rows .sr').forEach(el => observer.observe(el));
+
+/* ── Hardware cards ── */
+const HW = [
+  { id:'SPEC-001', name:'WATERPROOF SYNTHETIC PAPER', sub:'REVLAR / RITE-IN-THE-RAIN GRADE',
+    stats:[['MATERIAL','Polypropylene-based synthetic'],['WATER RESISTANCE','100% // Full immersion rated'],['TEAR RESISTANCE','Extreme // Mil-spec field use'],['FORMAT','8.5" × 11" tactical landscape']] },
+  { id:'SPEC-002', name:'BREAK-BACK EASEL BINDER', sub:'3-RING // BATTLEFIELD HARDENED',
+    stats:[['RING TYPE','Locking D-ring, 3-hole'],['EASEL FUNCTION','Hands-free countertop deploy'],['LOAD CAPACITY','200+ SOP cards'],['RETAIL TARGET','$55–$75 // Build: $25.50–$35.50']] },
+  { id:'SPEC-003', name:'MODULAR SOP CARDS', sub:'INDIVIDUAL MISSION PACKAGES',
+    stats:[['FORMAT','Self-contained // single page'],['DEPLOYMENT','Field-removable by design'],['COVERAGE','50 SOPs across 4 mission types'],['NUMBERING','Sequential // SOP-001 → SOP-050']] },
+];
+const hwCards = document.getElementById('hw-cards');
+HW.forEach((spec, i) => {
+  const rows = spec.stats.map(([k,v]) => `
+    <div class="border-b border-[#1a1a1a] pb-2.5 flex justify-between items-start gap-3">
+      <span class="font-mono text-[8px] text-[#4B5320] tracking-widest flex-shrink-0 pt-px">${k}</span>
+      <span class="font-mono text-[9px] text-[#A59C82] text-right leading-relaxed">${v}</span>
+    </div>`).join('');
+  hwCards.innerHTML += `
+    <div class="relative border border-[#4B5320]/25 bg-[#111]/80 overflow-hidden spec-card sr sr-${i+2}" style="transition-delay:${(i*.1).toFixed(1)}s">
+      <div class="border-b border-[#4B5320]/20 px-5 py-3 flex items-center justify-between" style="background:rgba(75,83,32,.05)">
+        <span class="font-mono text-[9px] text-[#4B5320] tracking-widest">${spec.id}</span>
+        <span class="w-1.5 h-1.5 rounded-full spec-dot" style="background:#4B5320;transition:background .3s"></span>
+      </div>
+      <div class="p-6">
+        <h3 class="font-ops text-[#F2F2F2] text-base leading-snug mb-1">${spec.name}</h3>
+        <p class="font-mono text-[9px] text-[#FF6600] tracking-widest mb-6">${spec.sub}</p>
+        <div class="space-y-3">${rows}</div>
+      </div>
+      <div class="absolute bottom-0 right-0 w-6 h-6 border-t border-l border-[#4B5320]/20"></div>
+    </div>`;
+});
+document.querySelectorAll('#hw-cards .sr').forEach(el => observer.observe(el));
+
+/* ── SOP Grid ── */
+const SOP_CATS = [
+  { rank:'RECRUIT',    type:'QUICK STRIKE',    color:'#4B5320', count:'25 SOPs', timing:'≤ 15 MIN ENGAGEMENT',
+    desc:'High-speed protein deployment. Zero room for error. Designed for the operator with no time to waste.',
+    examples:['SOP-001: Primal Sear','SOP-008: Silver Scale','SOP-014: Coastal Infil','SOP-022: Whiteout'],
+    iconPath:'M13 2 3 14h9l-1 8 10-12h-9l1-8z' },
+  { rank:'COMMANDER',  type:'HEAVY LIFT',      color:'#FF6600', count:'14 SOPs', timing:'LONG-DURATION OPS',
+    desc:'Slow-cook, high-yield asset extraction. Patience-intensive. The mission that feeds the whole unit.',
+    examples:['SOP-003: Hostage Rescue','SOP-007: High-Value Bird','SOP-031: Rack and File','SOP-044: Iberian Shore'],
+    iconPath:'M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z' },
+  { rank:'SUSTAINMENT', type:'FIELD RATIONS',  color:'#A59C82', count:'7 SOPs',  timing:'BULK DEPLOYMENT',
+    desc:'Strategic resource management. Maximum caloric output from minimum field time. Batch-cook operations.',
+    examples:['SOP-009: Grain Silo','SOP-012: Oats and Ammo','SOP-019: Daily Bread','SOP-004: Bulk Sustainment'],
+    iconPath:'M12 2a10 10 0 1 0 0 20A10 10 0 0 0 12 2zm0 6a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z' },
+  { rank:'SOCIAL OPS', type:'MORALE BOOSTERS', color:'#e5c100', count:'4 SOPs',  timing:'HOSTAGE RESCUE LEVEL',
+    desc:'High-value target entertaining. Commander-level execution for The Unit. Deploy with authority.',
+    examples:['SOP-044: Iberian Shore','SOP-045: Mediterranean Strike','SOP-048: Hostage Rescue Beverages'],
+    iconPath:'M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z' },
+];
+const sopGrid = document.getElementById('sop-grid');
+SOP_CATS.forEach((cat, i) => {
+  const exHtml = cat.examples.map(ex => `
+    <div class="flex items-center gap-2">
+      <span class="font-mono text-[8px]" style="color:${cat.color}">▸</span>
+      <span class="font-mono text-[10px] text-[#3a3a3a]">${ex}</span>
+    </div>`).join('');
+  sopGrid.innerHTML += `
+    <div class="relative border border-[#222] bg-[#161616] overflow-hidden sop-card sr sr-${(i%2)+2}" style="transition-delay:${(i*.1).toFixed(1)}s">
+      <div class="h-0.5" style="background:${cat.color}"></div>
+      <div class="flex items-center justify-between px-6 pt-5 pb-4 border-b border-[#222]">
+        <div>
+          <p class="font-mono text-[9px] tracking-[.25em] mb-1" style="color:${cat.color}">${cat.rank}</p>
+          <h3 class="font-ops text-[#F2F2F2] text-xl tracking-wide">${cat.type}</h3>
+        </div>
+        <div class="flex flex-col items-end gap-1.5">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="${cat.color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="sop-icon" style="opacity:.2;transition:opacity .3s">
+            <path d="${cat.iconPath}"/>
+          </svg>
+          <span class="font-mono text-[8px] text-[#444] tracking-widest">${cat.timing}</span>
+        </div>
+      </div>
+      <div class="px-6 py-5">
+        <p class="font-mono text-xs text-[#555] leading-[1.75] mb-5">${cat.desc}</p>
+        <div class="space-y-1.5 mb-6">${exHtml}</div>
+        <div class="flex items-center justify-between pt-4 border-t border-[#222]">
+          <span class="font-ops text-base" style="color:${cat.color}">${cat.count}</span>
+          <span class="font-mono text-[9px] text-[#3a3a3a] tracking-widest cursor-pointer hover:text-[#F2F2F2]" style="transition:color .2s">FULL INTEL ▶</span>
+        </div>
+      </div>
+      <div class="absolute top-0 right-0 w-0 h-0" style="border-left:18px solid transparent;border-top:18px solid ${cat.color};opacity:.45"></div>
+    </div>`;
+});
+document.querySelectorAll('#sop-grid .sr').forEach(el => observer.observe(el));
+
+/* ── Progress bar animate in ── */
+setTimeout(() => {
+  const bar = document.getElementById('progress-bar');
+  if (bar) bar.style.width = '69.4%';
+}, 300);
+
+/* ── Form submit ── */
+function submitForm(e) {
+  e.preventDefault();
+  document.getElementById('enlist-form').style.display = 'none';
+  document.getElementById('enlist-confirm').classList.remove('hidden');
+}
+
+/* ── Video box toggle label ── */
+document.getElementById('video-box').addEventListener('click', function() {
+  const label = this.querySelector('p');
+  if (this.classList.contains('playing')) {
+    label.textContent = '▶ PLAYBACK ACTIVE';
+  } else {
+    label.textContent = '■ STANDBY // PRESS TO DEPLOY FOOTAGE';
+  }
+});
+</script>
+</body>
+</html>
