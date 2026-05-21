@@ -1,4 +1,4 @@
-# SOP-020: OPERATION YELLOW CAKE
+# SOP-020: OPERATION CORNBREAD
 **Objective:** Deployment of high-density Southern-style skillet cornbread.
 **Mission Type:** Quick Strike (Side-Op)
 
