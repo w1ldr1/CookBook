@@ -1,5 +1,3 @@
----
-
 # SOP-001: OPERATION PRIMAL SEAR
 **Objective:** Execution of a perfect medium-rare Ribeye using high-thermal mass hardware.
 ...
