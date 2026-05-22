@@ -16,13 +16,13 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Deploy via FTP
-        uses: appleboy/sftp-action
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: 82.29.199.8
           username: u657502449
           password: ${{ secrets.FTP_PASSWORD }}
-          port: 990
-          protocol: ftps
+          protocol: ftp
+          port: 21
           server-dir: /home/u657502449/domains/toolsandtable.com/public_html/cookbook/
           local-dir: ./
           exclude: |
