@@ -18,15 +18,14 @@ jobs:
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
-        server: ftp.toolsandtable.com
-        username: u657502449.cookbook
-        password: ${{ secrets.FTP_PASSWORD }}
-        port: 21
-# if plain FTP fails, try:
-        protocol: ftps
-        server-dir: /home/u657502449/public_html/cookbook/
-        local-dir:  ./
-        exclude: |
+          server: ftp.toolsandtable.com
+          username: u657502449.cookbook
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          protocol: ftps
+          server-dir: /home/u657502449/public_html/cookbook/
+          local-dir: ./
+          exclude: |
             **/.git*
             **/.git*/**
             **/.github/**
