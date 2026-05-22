@@ -1,0 +1,44 @@
+name: Deploy to Hostinger
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - '04_Design_Assets/Production_Photos/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        with:
+          server:     ${{ secrets.FTP_SERVER }}
+          username:   ${{ secrets.FTP_USERNAME }}
+          password:   ${{ secrets.FTP_PASSWORD }}
+          server-dir: /home/u657502449/domains/toolsandtable.com/cookbook/
+          local-dir:  ./
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.github/**
+            **/.claude/**
+            **/node_modules/**
+            **/temporary screenshots/**
+            **/*.md
+            **/*.mjs
+            **/*.py
+            **/*.txt
+            **/package.json
+            **/package-lock.json
+            01_Intelligence/**
+            02_Hardware_Specs/**
+            03_SOP_Recipes/**
+            03_SOP_Recipes_V2/**
+            05_Logistics_Supply/**
+            06_Marketing_Comms/**
+            CNAME
