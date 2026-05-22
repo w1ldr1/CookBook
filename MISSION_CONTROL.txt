@@ -1,0 +1,32 @@
+📂 PROJECT STATUS: SUSTAINMENT OPERATIONS MANUAL (V2.0 RIFLEMAN ISSUE)
+1. THE CORE IDENTITY:
+Product: A 50-SOP "Tactical Tent" manual.
+Format: V2.0 Rifleman Issue (Landscape 8.5" x 5.5" Spiral-Easel).
+Aesthetic: Military Field Guide, OD Green, Stencil/Mono fonts.
+Layout: 3-Column Dashboard (Intel | Execution | Visuals).
+Hardware: Internal die-cut step-tabs, Wire-O metal binding, waterproof synthetic paper.
+2. REPOSITORY ARCHITECTURE (Z:\Terminal\Projects\CookBook):
+00_Table_of_Distribution.md: Master Index (50 SOPs assigned by Rank).
+01_Intelligence/: Hardened files on Nutrition, Safety, Battle Rhythm, and Recon.
+03_SOP_Recipes/: Original V1 (Portrait) files.
+03_SOP_Recipes_V2/: CURRENT TARGET. 50 Refactored V2 (Landscape) files.
+04_Design_Assets/: Style Guide V2.0, Step-Tab Layout Guide, Product Hero Shot.
+05_Logistics_Supply/: V2.0 Manufacturer RFQ Template, Vendor Matrix.
+06_Marketing_Comms/: Kickstarter Plan, "Mission Leak" PDF layout, Landing Page Spec, Launch Checklist.
+3. STANDARDIZED TERMINOLOGY (HARDENED):
+Rank: Recruit, Sergeant, Commander.
+Structure: INFIL (Prep), ENGAGEMENT (Cook), EXFIL (Plating), FIELD INTEL, SECONDARY OBJECTIVE, COMPATIBLE SYSTEMS.
+Visuals: High-contrast, industrial, "Action" photography.
+4. TECHNICAL ASSETS:
+audit_repo.py: Validates metadata and nomenclature.
+refactor_v2.py: Automated V1-to-V2 3-column conversion script.
+5. PENDING OBJECTIVES (NEXT STEPS):
+Objective 1: Audit the 03_SOP_Recipes_V2 folder for "DATA PENDING" markers and manually fix any parsing gaps.
+Objective 2: Build the Google Slides Master Template (9"x5.5" landscape, OD Green background).
+Objective 3: Batch-generate AI Hero Shots for the 50 SOPs using the Master Style String.
+Objective 4: Deploy the Carrd.co Landing Page and "Mission Leak" PDF to start waitlist recruitment.
+🛠️ FINAL TACTICAL ADVICE FOR YOUR REBOOT:
+The "DATA PENDING" Clean-up: Since the V2.1 script was safe-guarded, check the files it flagged. Usually, it just needs a missing ** or a typo fixed in the original file to re-run and get a perfect refactor.
+Free Tool Synergy: Remember that your Google Slides file is your "Print-Ready" source. When you are done pasting the 50 recipes, export it as a PDF/X-1a for the printer.
+The Waitlist is King: Best-seller status is determined by Day 1 sales. Do not spend a dollar on printing until you have 500+ emails on your Vanguard list.
+Mission Status: REPOSITORY SECURED. STANDING BY FOR DEPLOYMENT.

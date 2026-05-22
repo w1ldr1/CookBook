@@ -1,75 +1,80 @@
 # CHAPTER 04: VISUAL STYLE GUIDE
 **Subject:** Design Specifications and Brand Aesthetic
-**Mission Objective:** To maintain a high-contrast, utilitarian, and "Military-Issue" visual identity across all media.
+**Mission Objective:** To maintain a high-contrast, utilitarian, and "Military-Issue" visual identity.
 
 ---
 
 ## 1. COLOR PALETTE (Tactical Tones)
-We use flat, matte colors. Avoid gradients or "shiny" finishes.
 
 | Element | Color Name | HEX Code | Usage |
-| :--- | :--- | :--- | :--- |
-| **Primary** | OD Green | `#4B5320` | Headers, Binder Cover, Accents |
-| **Secondary** | Coyote Tan | `#A59C82` | Backgrounds, Call-out boxes |
-| **Action** | Safety Orange | `#FF6600` | Warnings, Critical Temps, Timers |
-| **Base** | Charcoal | `#333333` | Primary Text, Hardware Icons |
-| **Highlight** | Stencil White | `#F2F2F2` | Secondary Text, Borders |
-
----
+|---|---|---|---|
+| OD Green | #4B5320 | Headers, Binder Cover, Accents |
+| Coyote Tan | #A59C82 | Backgrounds, Call-out boxes |
+| Safety Orange | #FF6600 | Warnings, Critical Temps, Timers |
+| Charcoal | #333333 | Primary Text, Hardware Icons |
+| Stencil White | #F2F2F2 | Secondary Text, Borders |
 
 ## 2. TYPOGRAPHY (The Font Deck)
-Fonts must be legible under low-light/high-stress kitchen conditions.
 
-### [ ] HEADLINES: "The Stencil"
-*   **Recommended Font:** *Stencilia* or *Black Ops One*.
-*   **Usage:** SOP Titles (e.g., SOP-001), Chapter Headings.
-*   **Psychology:** Immediate association with military cargo and field crates.
+*   **Headlines:** Stencilia / Black Ops One — stencil aesthetic, high legibility at small sizes
+*   **Body:** Roboto Mono / Courier New — monospaced, evokes military teletype
+*   **Data:** DIN Condensed / Bahnschrift — compact, high-density stats display
 
-### [ ] BODY TEXT: "The Briefing"
-*   **Recommended Font:** *Roboto Mono* or *Courier New*.
-*   **Usage:** Step-by-step instructions, AAR notes.
-*   **Psychology:** Evokes the feel of a typewriter-issued field manual or computer readout.
+## 3. ICONOGRAPHY
 
-### [ ] DATA POINTS: "The Readout"
-*   **Recommended Font:** *DIN Condensed* or *Bahnschrift*.
-*   **Usage:** Macros, Time, Difficulty ratings.
-*   **Psychology:** Clean, industrial, and high-efficiency.
+Standard inline markers for quick visual parsing:
 
----
+| Icon | Meaning |
+|---|---|
+| `[!]` | Danger / Warning |
+| `[T]` | Timing / Duration |
+| `[R]` | Rank / Difficulty |
+| `[H]` | Hardware Required |
 
-## 3. ICONOGRAPHY (Visual Intel)
-Use these symbols to convey information without using words.
+## 4. PHOTOGRAPHY STYLE
 
-*   **[!] Danger/High Heat:** A flame icon in Safety Orange.
-*   **[T] Tactical Timing:** A stopwatch icon.
-*   **[R] Rank/Difficulty:**
-    *   *Private (1 Bar):* Basic Prep.
-    *   *Sergeant (3 Bars):* Multi-tasking required.
-    *   *Commander (Star):* Advanced maneuvers (e.g., Soufflé or Whole Hog).
-*   **[H] Hardware Required:** A wrench or skillet icon.
-
----
-
-## 4. PHOTOGRAPHY STYLE (The "Action" Look)
-Avoid "Foodie" photography. No soft lighting, no flowers, no garnishes.
-
-1.  **High Contrast:** Deep shadows and bright highlights. 
-2.  **The "Action" Shot:** Capture the steam, the flame, or the knife mid-cut.
-3.  **The Environment:** Show the grit. Stainless steel, wood, cast iron, and charcoal. 
-4.  **Color Grading:** Slightly de-saturated. Enhance the browns of the meat and the greens of the vegetables.
-
----
+*   High-contrast action shots only — no soft-focus food styling.
+*   Overhead or action angles; no plated restaurant aesthetics.
+*   Subject: the process, not the presentation.
+*   Editing: high contrast, slight desaturation, grain-forward treatment.
 
 ## 5. LAYOUT ARCHITECTURE
-*   **The Grid:** Use heavy black borders (2pt or 3pt) to section off "Intelligence" from "Execution."
-*   **Redactions:** Use black bars over "flavor text" to keep the reader focused on the mission steps.
-*   **Standardization:** Every page must have the "Mission ID" (e.g., SOP-002) in the top right corner for quick filing in the binder.
+
+*   Heavy black borders on all cards and section dividers.
+*   Redaction bars over classified/placeholder text.
+*   SOP ID printed in top-right corner of each page.
+*   Grid-based layout; no decorative curves or organic shapes.
+
+## 6. AFTER ACTION REPORT (Print Optimization)
+
+*   Color mode: CMYK for all print assets. Convert from HEX before sending to print.
+*   Paper stock: Rite in the Rain / REVLAR / YUPO synthetic paper.
+*   Ink saturation: limit to 240% TAC (total area coverage) for synthetic paper adhesion.
+*   Line weight: minimum 0.5pt for borders to survive printing on slick stock.
 
 ---
 
-## 6. AFTER ACTION REPORT (AAR)
-*   **Consistency:** If a recipe is added to the repo that does not fit this aesthetic, it must be "remastered" before deployment.
-*   **Digital vs. Physical:** Ensure colors are CMYK optimized for the waterproof synthetic paper printing process.
+## 7. V2.0 RIFLEMAN ISSUE (Landscape Dashboard Update)
+
+**Subject:** Landscape Orientation and Dashboard UI
+**Objective:** Utilitarian data delivery for the "Provider" identity.
+
+### 7.1 LAYOUT ARCHITECTURE (Landscape Dashboard)
+We utilize a 3-Column horizontal "Dashboard" to maximize counter-top visibility:
+*   **Column 1 (Far Left):** "The Intel" (Rank, Macros, Hardware, Supplies).
+*   **Column 2 (Center):** "The Execution" (Standardized Operating Procedures - Phases 1-3).
+*   **Column 3 (Far Right):** "The End State" (High-contrast action photography of the dish).
+
+### 7.2 TYPOGRAPHY & BRANDING
+*   **Primary Font:** Black Ops One (Stencil) for SOP Titles and Ranks.
+*   **Body Font:** Roboto Mono (Monospaced) for instructions to evoke military teletype.
+*   **Branding:** "Sustainment Operations Manual" is relocated to a small block in the **Top-Left Header**.
+*   **Version Control:** Every page footer includes "V2.0 RIFLEMAN ISSUE" in 8pt font.
+
+### 7.3 COLOR PALETTE
+*   **Primary:** OD Green (#4B5320) - Used for rigid polymer covers.
+*   **Secondary:** Charcoal (#333333) - Used for the metal Wire-O binding.
+*   **Action:** Safety Orange (#FF6600) - Used for the "QUICK STRIKE" tab and "Danger" warnings.
 
 ---
-**[Insert Image: A "Mood Board" featuring OD Green swatches, stencil fonts, and a photo of a ruggedized watch next to a steak]**
+**[Insert Image: A rendering of the SOP-001 page in the 3-column landscape layout]**

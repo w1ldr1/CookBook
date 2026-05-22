@@ -12,22 +12,24 @@ The brand identity is a military field-guide: cooking is framed as operational m
 
 There is no build or test command. Content management is entirely Git + Markdown:
 
-- **Add a recipe:** Copy `03_SOP_Recipes/SOP_TEMPLATE.md` → fill in all 5 sections → place in the correct subdirectory → commit.
+- **Add a recipe:** Copy `03_SOP_Recipes/SOP_TEMPLATE.md` → fill in all 5 sections → place in the correct subdirectory (`Quick_Strike/`, `Heavy_Lift/`, `Field_Rations/`, or `Morale_Boosters/`) → commit.
 - **Update existing content:** Edit the relevant `.md` file and commit.
 - **Design compliance:** All new content must conform to `04_Design_Assets/Style_Guide.md` before it is considered ready.
 
 ## Repository Structure
 
 ```
-01_Intelligence/       # Reference docs: sourcing, safety, nutrition, conversions, knife work
-02_Hardware_Specs/     # Tool selection and maintenance SOPs
+00_Table_of_Distribution.md  # Master index — all 50 SOPs logged
+01_Intelligence/             # Nutrition, Safety, Battle Rhythm, Recon, Field Repair, Sanitation
+02_Hardware_Specs/           # Armory Kit, Blade Maintenance, Cast Iron Restoration
 03_SOP_Recipes/
-  ├── Quick_Strike/    # 15-minute meals (~25 recipes)
-  ├── Heavy_Lift/      # Slow-cook / large roasts (~9 recipes)
-  └── Field_Rations/   # Meal prep / bulk cooking (~4 recipes)
-04_Design_Assets/      # Visual identity: colors, fonts, iconography, photography rules
-05_Logistics_Supply/   # Binder specs, synthetic paper sourcing, unit economics
-06_Marketing_Comms/    # Launch strategy, influencer outreach, pre-order funnel
+  ├── Quick_Strike/          # 15-min meals (31 SOPs)
+  ├── Heavy_Lift/            # Slow-cook / large roasts (14 SOPs)
+  ├── Field_Rations/         # Meal prep / bulk cooking (4 SOPs)
+  └── Morale_Boosters/       # Beverages (SOP-048)
+04_Design_Assets/            # Style Guide, Tab Specs
+05_Logistics_Supply/         # Production costs, Easel Binder specs
+06_Marketing_Comms/          # Kickstarter plan, Funnel logic, Launch checklist
 ```
 
 ## SOP Template (Mandatory Structure)
