@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        uses: appleboy/sftp-action
         with:
           server: 82.29.199.8
           username: u657502449
