@@ -6,6 +6,7 @@ on:
     paths:
       - 'index.html'
       - '04_Design_Assets/Production_Photos/**'
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -15,12 +16,12 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        uses: SamKirkland/FTP-Deploy-Action@4.3.4
         with:
           server:     ${{ secrets.FTP_SERVER }}
           username:   ${{ secrets.FTP_USERNAME }}
           password:   ${{ secrets.FTP_PASSWORD }}
-          server-dir: /home/u657502449/domains/toolsandtable.com/cookbook/
+          server-dir: /home/u657502449/public_html/cookbook/
           local-dir:  ./
           exclude: |
             **/.git*
