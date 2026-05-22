@@ -19,7 +19,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: 82.29.199.8
-          username: u657502449.cookbook
+          username: u657502449
           password: R8m!5xQ2pL7v@3Kd
           port: 21
           protocol: ftps
