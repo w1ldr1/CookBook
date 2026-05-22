@@ -21,8 +21,8 @@ jobs:
           server: 82.29.199.8
           username: u657502449
           password: ${{ secrets.FTP_PASSWORD }}
-          port: 21
-          protocol: ftp
+          port: 990
+          protocol: ftps
           server-dir: /home/u657502449/domains/toolsandtable.com/public_html/cookbook/
           local-dir: ./
           exclude: |
