@@ -20,7 +20,7 @@ jobs:
         with:
           server: 82.29.199.8
           username: u657502449.cookbook
-          password: ${{ secrets.FTP_PASSWORD }}
+          password: R8m!5xQ2pL7v@3Kd
           port: 21
           protocol: ftps
           server-dir: /home/u657502449/public_html/cookbook/
