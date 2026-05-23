@@ -23,7 +23,7 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftp
           port: 21
-          server-dir: /home/u657502449/domains/toolsandtable.com/public_html/cookbook/
+          server-dir: /public_html/cookbook/
           local-dir: ./
           exclude: |
             **/.git*
