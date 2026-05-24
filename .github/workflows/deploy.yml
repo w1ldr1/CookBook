@@ -18,11 +18,13 @@ jobs:
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
-          server:     ${{ secrets.FTP_SERVER }}
-          username:   ${{ secrets.FTP_USERNAME }}
-          password:   ${{ secrets.FTP_PASSWORD }}
-          server-dir: /home/u657502449/public_html/cookbook/
-          local-dir:  ./
+          server: 82.29.199.8
+          username: u657502449
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftp
+          port: 21
+          server-dir: /domains/toolsandtable.com/public_html/cookbook/
+          local-dir: ./
           exclude: |
             **/.git*
             **/.git*/**
