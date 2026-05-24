@@ -1,46 +1,56 @@
 # SOP-033: OPERATION FORCE MULTIPLIER
-**Objective:** Tactical extraction of "Fond" into a high-value Pan Sauce.
+**Objective:** Tactical extraction of "Fond" from a hot skillet into a high-value Pan Sauce.
 **Rank:** Sergeant
-**Mission Type:** Quick Strike (Skill Upgrade)
+**Difficulty:** 2/5
+**Mission Type:** Quick Strike
 
 ---
 
 ## 1. INTELLIGENCE (The Stats)
 *   **Total Mission Time:** 5 Minutes
-*   **Target:** Turns a basic protein mission into a 5-star Hostage Rescue mission.
-*   **Difficulty Rating:** 2/5 (Requires timing)
-*   **Compatible Systems:** SOP-001 (Steak), SOP-030 (Pork).
+*   **Infil (Prep):** 0 Minutes (Executed immediately after protein extraction)
+*   **Thermal Dwell (Cook):** 5 Minutes
+*   **Target Macros (per serving):** P: 0g | C: 2g | F: 6g | ~60 Cal
+*   **Difficulty Rating:** 2/5
+*   **Compatible Systems:** SOP-001 (Primal Sear), SOP-030 (Lean Strike).
 
 ## 2. HARDWARE (Standard Issue)
+*Required tools for mission success:*
 - [ ] 1x Whisk or Wooden Spoon
-- [ ] The skillet used for your protein (SOP-001 or SOP-030).
+- [ ] The same skillet used for the protein mission
 
 ## 3. SUPPLIES (Consumables)
-- **The Deglazer:** 1/2 cup Beef/Chicken Stock or Dry Red/White Wine.
-- **Aromatics:** 1 small Shallot (minced), 1 clove Garlic.
-- **The Binder:** 2 tbsp Cold Butter (cubed).
-- **Herbs:** 1 tsp Fresh Thyme or Rosemary.
+*Quantities optimized for 2 Personnel:*
+- **The Deglazer:** 1/2 cup Beef or Chicken Stock, or Dry Red or White Wine
+- **Aromatics:** 1 small Shallot (minced), 1 clove Garlic (minced)
+- **The Binder:** 2 tbsp Cold Unsalted Butter (cubed — temperature matters)
+- **Herbs:** 1 tsp Fresh Thyme or Rosemary
 
 ## 4. EXECUTION (Step-by-Step)
 
 ### Phase 1: Infil (Post-Protein)
-1.  **Clear the Deck:** After cooking your meat, remove the steak/pork from the pan. Keep the brown bits (The Fond) in the pan. 
-2.  **Lower Heat:** Reduce heat to medium.
+1.  **Secure the Fond:** After cooking your protein, remove it from the pan. The brown bits stuck to the bottom (The Fond) are concentrated flavor — do not discard them.
+2.  **Lower Heat:** Reduce to Medium.
 
 ### Phase 2: Engagement (The Deglaze)
-1.  **Sauté:** Add shallots and garlic to the residual fat. Cook for 60 seconds.
-2.  **Deglaze:** Pour in the "Deglazer" (Stock or Wine). Use the spoon to aggressively scrape the bottom of the pan to release the fond.
-3.  **Reduction:** Simmer until the liquid reduces by half (it should look thick and syrupy).
+1.  **Aromatic Deployment:** Add shallots and garlic to the residual fat. Cook for 60 seconds until fragrant.
+2.  **Deglaze:** Pour in the stock or wine. Use the spoon to aggressively scrape the bottom — every bit of fond must be dissolved into the liquid.
+3.  **Reduction:** Simmer until the liquid reduces by half and coats the back of a spoon (~3 minutes).
 
-### Phase 3: The Cold-Butter Finish (Mounting)
-1.  **Kill the Heat:** Turn off the burner.
-2.  **Emulsify:** Add cold butter cubes one at a time, whisking constantly. This creates a glossy, professional sauce. Stir in herbs.
+### Phase 3: Extraction & Exfil
+1.  **Kill the Heat:** Remove the pan from the burner entirely.
+2.  **Mount the Butter:** Add cold butter cubes one at a time, whisking constantly. This emulsifies the sauce into a glossy, restaurant-quality finish. Stir in fresh herbs.
+3.  **Deploy Immediately:** Pan sauce breaks if held. Pour directly over the resting protein.
 
 ---
 
 ## 5. AFTER ACTION REPORT (AAR)
-*   **Field Intel:** The butter must be **cold**. If it’s warm, the sauce will "break" and turn greasy.
-*   **Secondary Objective:** Add a splash of heavy cream for a "Velvet Finish."
+**Field Intel:**
+*   The butter must be cold. Warm butter will not emulsify — it will separate into a greasy pool. Keep it refrigerated until the moment it hits the pan.
+*   Kill the heat before adding butter. Active heat will break the emulsification immediately.
+
+**Secondary Objective:**
+*   Add 2 tbsp of heavy cream during the reduction phase for a "Velvet Finish" that holds longer without breaking.
 
 ---
 ![Sauce being poured from a skillet over a steak](../../04_Design_Assets/Images/SOP-033-Pan-Sauce.jpg)
