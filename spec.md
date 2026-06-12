@@ -1,8 +1,8 @@
 # SUSTAINMENT OPERATIONS MANUAL — MASTER SPEC
 **Document Type:** Project Specification & Implementation Roadmap  
-**Version:** 1.0  
+**Version:** 1.1  
 **Date:** 2026-05-24  
-**Status:** ACTIVE — Pre-Production
+**Status:** ACTIVE — Pre-Production (Content Complete)
 
 ---
 
@@ -24,9 +24,9 @@
 - Build cost: $25.50–$35.50 per unit (500-unit bulk)
 - Target margin: 50–60%
 
-**Current completion:** All 50 SOP files exist. Quality varies; ~20 are fully polished and production-ready. All infrastructure (style guide, design specs, tab system, marketing strategy) is complete.
+**Current completion:** All 50 SOPs written, standardized, and format-compliant. All 7 critical editorial fixes applied. Photography brief with 10-shot Midjourney prompt list written. All infrastructure (style guide, design specs, tab system, marketing strategy) complete. V2 scaffold directory deleted — V1 files are the authoritative content source.
 
-**Mission for this phase:** Quality-audit and standardize all 50 SOPs, complete any thin content, fix 7 known critical errors, source AI photography, and produce a print-ready V2 layout.
+**Mission for this phase:** AI photography generation (10 hero images), V2 landscape layout design, Kickstarter campaign copy, and pre-launch marketing execution.
 
 ---
 
@@ -118,64 +118,64 @@ Full brand spec: `04_Design_Assets/Style_Guide.md`
 
 | Symbol | Meaning |
 |---|---|
-| ✅ | Production-ready (fully written, format-compliant, reviewed) |
-| ⚠ | Written but has a known critical error (see §4) |
-| 🔍 | File exists — needs quality audit before production |
-| ❌ | File confirmed thin/stub — full content write required |
+| ✅ | Production-ready (fully written, format-compliant, all fixes applied) |
+| 📸 | Production-ready — hero image not yet generated |
+
+**All 50 SOPs are format-compliant as of 2026-05-24. All 7 critical fixes applied. Hero images are the remaining content blocker.**
 
 ### 3.2 Quick Strike (32 SOPs)
 
 | ID | Mission Name | Rank | Time | Status |
 |---|---|---|---|---|
-| 001 | Operation Primal Sear (Steak) | Corporal* | 50m | ⚠ Rank fix needed |
-| 002 | Operation Ground Combat (Bowl) | Recruit | 15m | ✅ |
-| 005 | Operation Morning Recon (Eggs) | Recruit | 10m | ✅ |
+| 001 | Operation Primal Sear (Steak) | Corporal | 50m | 📸 |
+| 002 | Operation Ground Combat (Bowl) | Recruit | 15m | 📸 |
+| 005 | Operation Morning Recon (Eggs) | Recruit | 10m | 📸 |
 | 006 | Operation Green Cover (Broccoli) | Recruit | 20m | ✅ |
-| 008 | Operation Silver Scale (Salmon) | Sergeant | 15m | ⚠ Adhesion timing fix |
-| 010 | Operation Iron Griddle (Burgers) | Sergeant | 15m | ✅ |
+| 008 | Operation Silver Scale (Salmon) | Sergeant | 15m | 📸 |
+| 010 | Operation Iron Griddle (Burgers) | Sergeant | 15m | 📸 |
 | 014 | Operation Coastal Infil (Tacos) | Recruit | 20m | ✅ |
-| 015 | Operation Cold Payload (Salad) | Recruit | 10m | 🔍 |
-| 018 | Operation Yogurt Armor (Cake) | Recruit | 45m | 🔍 |
-| 020 | Operation Cornbread | Recruit | 30m | 🔍 |
-| 021 | Operation Flaky Biscuit | Sergeant | 25m | 🔍 |
-| 022 | Operation Whiteout (Sausage Gravy) | Recruit | 15m | 🔍 |
-| 024 | Operation Mud-Bug (Etouffee) | Commander | 40m | 🔍 |
-| 025 | Operation Coastal Extract (Shrimp) | Recruit | 15m | 🔍 |
-| 026 | Operation Green Harvest (Zucchini) | Recruit | 1.2h | 🔍 |
-| 027 | Operation Overripe Recovery (Banana) | Recruit | 1.1h | 🔍 |
-| 029 | Operation Southern Comfort (Pudding) | Recruit | 20m | 🔍 |
-| 030 | Operation Lean Strike (Pork) | Sergeant | 25m | 🔍 |
-| 032 | Operation Starch Support (Mash) | Recruit | 30m | 🔍 |
-| 033 | Operation Force Multiplier (Sauce) | Sergeant | 5m | 🔍 |
-| 034 | Operation Green Perimeter (Beans) | Recruit | 10m | 🔍 |
-| 035 | Operation Red Sauce (Pasta) | Recruit | 20m | 🔍 |
-| 036 | Operation Liquid Fuel (Coffee) | Recruit | 10m | 🔍 |
-| 037 | Operation Global Sear (Stir-Fry) | Sergeant | 20m | ⚠ Toss duration fix |
+| 015 | Operation Cold Payload (Salad) | Recruit | 10m | ✅ |
+| 018 | Operation Yogurt Armor (Cake) | Recruit | 45m | ✅ |
+| 020 | Operation Cornbread | Recruit | 30m | ✅ |
+| 021 | Operation Flaky Biscuit | Sergeant | 25m | ✅ |
+| 022 | Operation Whiteout (Sausage Gravy) | Recruit | 15m | ✅ |
+| 024 | Operation Mud-Bug (Etouffee) | Commander | 40m | ✅ |
+| 025 | Operation Coastal Extract (Shrimp) | Recruit | 15m | ✅ |
+| 026 | Operation Green Harvest (Zucchini) | Recruit | 1.2h | ✅ |
+| 027 | Operation Overripe Recovery (Banana) | Recruit | 1.1h | ✅ |
+| 029 | Operation Southern Comfort (Pudding) | Recruit | 20m | ✅ |
+| 030 | Operation Lean Strike (Pork) | Sergeant | 25m | ✅ |
+| 032 | Operation Starch Support (Mash) | Recruit | 30m | ✅ |
+| 033 | Operation Force Multiplier (Sauce) | Sergeant | 5m | ✅ |
+| 034 | Operation Green Perimeter (Beans) | Recruit | 10m | ✅ |
+| 035 | Operation Red Sauce (Pasta) | Recruit | 20m | ✅ |
+| 036 | Operation Liquid Fuel (Coffee) | Recruit | 10m | ✅ |
+| 037 | Operation Global Sear (Stir-Fry) | Sergeant | 20m | ✅ |
 | 038 | Operation Aerial Assault (Wings) | Sergeant | 35m | ✅ |
-| 039 | Operation Morning Stack (Pancakes) | Recruit | 20m | ⚠ Buttermilk math fix |
+| 039 | Operation Morning Stack (Pancakes) | Recruit | 20m | ✅ |
 | 040 | Operation Tuber Load (Potato) | Recruit | 1h | ✅ |
-| 042 | Operation Iron-Seared Thighs | Recruit | 35m | 🔍 |
-| 043 | Operation Root Fortification | Recruit | 35m | ⚠ Missing Cal count |
-| 046 | Operation Deep-Sea Recovery (Clams) | Sergeant | 20m | 🔍 |
-| 047 | Operation High-Heat Curry | Recruit | 20m | ⚠ Protein timing fix |
+| 042 | Operation Iron-Seared Thighs | Recruit | 35m | ✅ |
+| 043 | Operation Root Fortification | Recruit | 35m | ✅ |
+| 046 | Operation Deep-Sea Recovery (Clams) | Sergeant | 20m | ✅ |
+| 047 | Operation High-Heat Curry | Recruit | 20m | ✅ |
 | 048 | Hostage Rescue Beverages | Recruit | 5m | ✅ |
 
 ### 3.3 Heavy Lift (14 SOPs)
 
 | ID | Mission Name | Rank | Time | Status |
 |---|---|---|---|---|
-| 003 | Operation Hostage Rescue (Tri-Tip) | Sergeant | 2h | ⚠ Ghost ingredients fix |
-| 007 | Operation High-Value Bird (Chicken) | Sergeant | 1.2h | ✅ |
-| 011 | Operation Overwatch Broth | Recruit | 12h | 🔍 |
-| 013 | Operation Texas Black-Gold (Brisket) | Commander | 14h | ✅ |
-| 016 | Operation Iron-Clad Chili | Sergeant | 3h | 🔍 |
-| 017 | Operation Sweet Ransom (Flan) | Commander | 4h | 🔍 |
-| 023 | Operation Delta Slow (Red Beans) | Sergeant | 6h | 🔍 |
-| 028 | Operation Salvage Rations (Pudding) | Recruit | 1.5h | 🔍 |
-| 031 | Operation Rack-and-File (Ribs) | Commander | 6h | 🔍 |
-| 041 | Operation The Command Loaf | Sergeant | 1.2h | ⚠ Glaze-prep step fix |
-| 044 | Operation Iberian Shore (Paella) | Commander | 1h | 🔍 |
-| 045 | Operation Mediterranean Strike | Commander | 2.5h | 🔍 |
+| 003 | Operation Hostage Rescue (Tri-Tip) | Sergeant | 2h | 📸 |
+| 007 | Operation High-Value Bird (Chicken) | Sergeant | 1.2h | 📸 |
+| 011 | Operation Overwatch Broth | Recruit | 12h | ✅ |
+| 013 | Operation Texas Black-Gold (Brisket) | Commander | 14h | 📸 |
+| 016 | Operation Iron-Clad Chili | Sergeant | 3h | ✅ |
+| 017 | Operation Sweet Ransom (Flan) | Commander | 4h | ✅ |
+| 023 | Operation Delta Slow (Red Beans) | Sergeant | 6h | ✅ |
+| 028 | Operation Salvage Rations (Pudding) | Recruit | 1.5h | ✅ |
+| 031 | Operation Rack-and-File (Ribs) | Commander | 6h | ✅ |
+| 041 | Operation The Command Loaf | Sergeant | 1.2h | ✅ |
+| 044 | Operation Iberian Shore (Paella) | Commander | 1h | ✅ |
+| 045 | Operation Mediterranean Strike | Commander | 2.5h | ✅ |
 | 049 | Operation Prime Directive (Roast) | Commander | 5h | ✅ |
 | 050 | Operation Eternal Simmer (Ragù) | Commander | 8h | ✅ |
 
@@ -186,7 +186,7 @@ Full brand spec: `04_Design_Assets/Style_Guide.md`
 | 004 | Operation Bulk Sustainment (Pork) | Sergeant | 8h | ✅ |
 | 009 | Operation Grain Silo (Rice) | Recruit | 25m | ✅ |
 | 012 | Operation Oats and Ammo | Recruit | 5m | ✅ |
-| 019 | Operation Daily Bread (No-Knead) | Sergeant | 18h | 🔍 |
+| 019 | Operation Daily Bread (No-Knead) | Sergeant | 18h | ✅ |
 
 ### 3.5 Morale Boosters (1 SOP)
 
@@ -194,13 +194,15 @@ Full brand spec: `04_Design_Assets/Style_Guide.md`
 |---|---|---|---|---|
 | 048 | Hostage Rescue Beverages | Recruit | 5m | ✅ |
 
-> **Note:** SOP-048 appears in both Quick Strike and Morale Boosters. Confirm final placement.
+> **Note:** SOP-048 appears in both Quick Strike and Morale Boosters tables above. Confirm final placement before layout.
 
 ---
 
 ## 4. CRITICAL FIXES — PRE-PRODUCTION BLOCKERS
 
-These 7 errors must be corrected before layout begins. Source: `EDITORIAL_EVALUATION.md`.
+> **STATUS: ALL 7 FIXES APPLIED ✅ — Completed 2026-05-24**
+
+These 7 errors were corrected before layout begins. Source: `EDITORIAL_EVALUATION.md`.
 
 | # | SOP | Error | Fix |
 |---|---|---|---|
@@ -218,14 +220,16 @@ These 7 errors must be corrected before layout begins. Source: `EDITORIAL_EVALUA
 
 ## 5. STANDARDIZATION PASS
 
-Apply uniformly across all 50 SOPs before layout:
+> **STATUS: COMPLETE ✅ — Applied to all 50 SOPs on 2026-05-24**
+
+The following standards were applied uniformly across all 50 SOPs:
 
 ### 5.1 Macro Block Format
-Every SOP must use exactly this format — no exceptions:
+Every SOP uses exactly this format:
 ```
 P:Xg | C:Xg | F:Xg | ~XXX Cal
 ```
-SOPs currently missing calories: SOP-037, SOP-043, SOP-047.
+All SOPs now include calories. Previously missing: SOP-037, SOP-043, SOP-047 — all fixed.
 
 ### 5.2 Rank & Difficulty Fields
 Every SOP must include both:
@@ -263,18 +267,15 @@ All tools listed with `[ ]` checkbox format:
 
 ## 6. AI PHOTOGRAPHY WORKFLOW
 
-### 6.1 Tools
-- **Primary:** Midjourney v6+ (best for high-contrast editorial food photography)
-- **Alternatives:** Adobe Firefly (better commercial licensing), DALL-E 3
+### 6.1 Tools (free options first)
+- **DALL-E 3** — free via ChatGPT (chatgpt.com); good prompt adherence, acceptable for draft generation
+- **Adobe Firefly** — free tier available (firefly.adobe.com); best commercial licensing (trained on licensed content only); good for clean editorial style
+- **Canva AI Image Generator** — free tier; lower quality but usable for secondary shots
+- **Midjourney** — paid ($10/mo); highest output quality for the tactical grain-forward aesthetic; recommended for the 10 priority hero shots if budget allows
 
-### 6.2 Master Style Prompt
-```
-Overhead tactical food shot, [dish name], high-contrast photography, 
-grain-forward film aesthetic, dark concrete or slate surface, cast iron cookware, 
-harsh single-direction lighting from upper-left, no soft focus, no lifestyle props, 
-OD green color accent, desaturated with warm orange highlight on food surface, 
-military field manual reference photo — 16:9 landscape crop
-```
+### 6.2 Full Photography Brief
+Complete shot list with per-image Midjourney prompts, technical specs, post-production checklist, and secondary shot list (20 total shots):
+`04_Design_Assets/Photography_Brief.md`
 
 ### 6.3 Priority Shot List (10 minimum before layout)
 
@@ -302,29 +303,34 @@ SOP-007 (rib membrane removal) and SOP-003 (tri-tip grain direction) require lin
 
 ---
 
-## 7. V2 FORMAT FINALIZATION
+## 7. LAYOUT FINALIZATION
 
-### 7.1 Source vs. Output
-- **Content source:** `03_SOP_Recipes/` (V1 files — portrait format, fully written)
-- **Production output:** `03_SOP_Recipes_V2/` (landscape 3-column — in progress)
-- V1 files are authoritative for content; V2 files are the layout target
+> **STATUS: V2 scaffold directory deleted 2026-05-24. `03_SOP_Recipes/` is the single authoritative content source.**
 
-### 7.2 V2 Audit Checklist (per file)
-For each of the 50 files in `03_SOP_Recipes_V2/`:
-- [ ] "DATA PENDING" markers replaced with actual content
-- [ ] Column 2 (Execution) populated with all 3 phases (Infil / Engagement / Exfil)
-- [ ] Column 1 (Intel + Supplies) matches V1 source exactly
-- [ ] Column 3 (Photo + AAR) has image placeholder at correct dimensions
+The V2 directory contained 50 empty scaffold files with no content. It was deleted. All 50 production-ready SOPs live in `03_SOP_Recipes/` (portrait Markdown). Layout production will convert these to the V2 landscape 3-column format in design software (Affinity Publisher free trial, or Adobe InDesign).
+
+### 7.1 Layout Tools (free options first)
+- **Affinity Publisher 2** — one-time purchase (~$70); full professional layout, CMYK export, master pages. Best option for this project.
+- **Canva Pro** — free tier limited; paid ($13/mo) supports print-ready PDF export. Good for prototyping.
+- **Scribus** — fully free, open-source; steep learning curve; CMYK output capable.
+- **Adobe InDesign** — paid ($23/mo); industry standard; not required given Affinity Publisher.
+
+### 7.2 Layout Checklist (per SOP)
+- [ ] Column 1 (Intel + Supplies) matches `03_SOP_Recipes/` source exactly
+- [ ] Column 2 (Execution) — all 3 phases (Infil / Engagement / Exfil)
+- [ ] Column 3 (Photo + AAR) — image placeholder at correct dimensions (see §2.2)
 - [ ] Header strip: "COOKING OPERATIONS" label present
 - [ ] Footer: "SUSTAINMENT OPERATIONS MANUAL // VOL 1: FOUNDATIONS V2.0 RIFLEMAN ISSUE"
+- [ ] SOP ID in top-right corner
 
 ### 7.3 Long SOP Handling
-SOPs-003, 007, and 013 have been flagged as potentially exceeding one landscape spread. Decision required:
-- **Option A:** Two-page spread (fold-out or consecutive pages) — premium feel, complex print
-- **Option B:** Compressed field-card format — tighter margins, smaller type, fits one page
-- **Option C:** Remove AAR and move to companion reference card
+SOPs 003, 007, and 013 may exceed one landscape spread.
 
-Recommend **Option B** for 003 and 007; **Option A** for 013 (brisket justifies the full treatment as a Commander-level showpiece).
+| SOP | Decision |
+|-----|----------|
+| 003 (Tri-Tip) | Compressed field-card format — tighter margins, smaller type |
+| 007 (Spatchcock Chicken) | Compressed field-card format |
+| 013 (Brisket) | Two-page spread — Commander showpiece, justified |
 
 ---
 
@@ -450,15 +456,15 @@ Recommend **Option B** for 003 and 007; **Option A** for 013 (brisket justifies 
 
 These files are referenced in the project but do not exist or are stub-only:
 
-| File | Location | Priority | Action |
+| File | Location | Priority | Status |
 |---|---|---|---|
-| `Pantry_Inventory_SOP.md` | `01_Intelligence/` | High | Referenced in `Weekly_Battle_Rhythm.md` — write a full inventory SOP |
-| Photography shot list | `04_Design_Assets/` | High | Detailed shot list per §6.3 above |
-| Kickstarter campaign copy | `06_Marketing_Comms/` | High | Headline, body, tier descriptions, FAQ |
-| GS1 barcode registration checklist | `05_Logistics_Supply/` | High | Required before any retail channel |
-| Updated RFQ (wire-O format) | `05_Logistics_Supply/` | High | Existing RFQ targets 3-ring binder — needs revision |
-| Email templates | `06_Marketing_Comms/` | Medium | Vanguard Day, Public Day, 30-day Review Push |
-| AAFES vendor application checklist | `06_Marketing_Comms/` | Medium | Step-by-step vendor portal walkthrough |
+| `Pantry_Inventory_SOP.md` | `01_Intelligence/` | High | ✅ Exists and complete |
+| `Photography_Brief.md` | `04_Design_Assets/` | High | ✅ Written 2026-05-24 — 10 priority shots with prompts |
+| Kickstarter campaign copy | `06_Marketing_Comms/` | High | `Kickstarter_Deployment.md` has strategy; full page copy (headline, body, FAQ) still needed |
+| GS1 barcode registration checklist | `05_Logistics_Supply/` | High | Not yet written — required before any retail channel |
+| Updated RFQ (wire-O format) | `05_Logistics_Supply/` | High | Not yet written — `Production_Specs.md` is outdated (V1 3-ring) |
+| Email templates | `06_Marketing_Comms/` | Medium | Not yet written — Vanguard Day, Public Day, 30-day Review Push |
+| AAFES vendor application checklist | `06_Marketing_Comms/` | Medium | Not yet written — step-by-step vendor portal walkthrough |
 | Vol 2 Table of Distribution | Root | Low | Draft after Vol 1 launch |
 
 ---
@@ -481,32 +487,34 @@ These require decisions before sending to printer:
 ## 14. LAUNCH READINESS CHECKLIST
 
 ### Content
-- [ ] All 50 SOPs quality-audited (thin content identified and completed)
-- [ ] All 7 critical fixes applied (§4)
-- [ ] All 50 SOPs standardized: macro block, rank+difficulty, Secondary Objective in AAR, checkbox hardware format (§5)
-- [ ] Baking SOPs (039, 040, 041) have gram weights
+- [x] All 50 SOPs written and format-compliant ✅ 2026-05-24
+- [x] All 7 critical fixes applied ✅ 2026-05-24
+- [x] All 50 SOPs standardized: macro block, rank+difficulty, Secondary Objective in AAR, checkbox hardware format ✅ 2026-05-24
+- [ ] Baking SOPs (039, 040, 041) gram weights confirmed (applied; verify against template)
 
 ### Photography
+- [x] Photography brief written with 10-shot list and Midjourney prompts ✅ 2026-05-24
 - [ ] 10 minimum hero images generated and style-matched (§6)
 - [ ] Diagram overlays completed for SOP-003 and SOP-007
 - [ ] Brand hero shots (product open on counter, hardware flat-lay)
 
 ### Layout
-- [ ] All 50 V2 files audited — DATA PENDING markers cleared
-- [ ] Long SOPs (003, 007, 013) handled with confirmed format decision
+- [ ] Layout tool selected (see §7.1 — recommend Affinity Publisher)
+- [ ] Long SOPs (003, 007, 013) confirmed in layout (compressed / 2-page per §7.3)
 - [ ] Print-ready PDF exported (CMYK, 240% TAC, 0.5pt min line weight)
 
 ### Production
-- [ ] Wire-O format RFQ submitted to printer (PrintNinja or equivalent)
+- [ ] Wire-O format RFQ submitted to printer
 - [ ] Back panel easel engineering confirmed with manufacturer
-- [ ] GS1 barcode registered
+- [ ] GS1 barcode registered (required before AAFES and Amazon)
 - [ ] 500-unit minimum order confirmed with unit cost
 
 ### Launch
-- [ ] Mission Leak PDF created (3 SOPs)
-- [ ] Pre-launch landing page live (Carrd.co) with email capture
-- [ ] Kickstarter page copy written and reviewed
+- [ ] Mission Leak PDF created (SOP-001, SOP-002, SOP-013)
+- [ ] Pre-launch landing page live with email capture
+- [ ] Kickstarter page copy (headline, body, FAQ) written and reviewed
 - [ ] Kickstarter campaign video scripted (features SOP-001 and SOP-013)
+- [ ] Email launch sequence written (Vanguard Day, Public Day, Review Push)
 - [ ] AAFES vendor application submitted (post-Kickstarter fulfillment)
 - [ ] Shopify store set up for DTC post-campaign
 
@@ -520,13 +528,15 @@ These require decisions before sending to printer:
 | `03_SOP_Recipes/SOP_TEMPLATE.md` | Mandatory 5-section format for all SOPs |
 | `04_Design_Assets/Style_Guide.md` | Brand spec (colors, fonts, photography, layout rules) |
 | `04_Design_Assets/Step_Tab_Layout_Guide.md` | Die-cut tab engineering dimensions |
+| `04_Design_Assets/Photography_Brief.md` | AI photography shot list — 10 priority shots with Midjourney prompts |
 | `04_Design_Assets/Production_Photos/Prototype2.png` | Physical prototype reference (wire-O flip easel) |
 | `05_Logistics_Supply/Production_Specs.md` | V1.0 cost model ⚠ outdated — update for wire-O |
 | `06_Marketing_Comms/Launch_Strategy.md` | 5-phase deployment plan |
+| `06_Marketing_Comms/Kickstarter_Deployment.md` | Campaign strategy and pledge tiers |
 | `EDITORIAL_EVALUATION.md` | Manuscript critique and critical fix punch-list |
 | `MISSION_CONTROL.txt` | V2.0 project status briefing |
 
 ---
 
 *End of Spec — SUSTAINMENT OPERATIONS MANUAL Vol. 1: Foundations*  
-*Next action: Quality audit pass on all 50 SOPs, beginning with ⚠ flagged files.*
+*Next action: AI photography generation (10 hero images) → layout in Affinity Publisher → Kickstarter campaign copy.*
